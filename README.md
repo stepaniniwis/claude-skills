@@ -1,6 +1,6 @@
 # Claude Skills
 
-19 production skills for [Claude Code](https://claude.ai/code). Built from academic publishing, qualitative research, and consulting across management, information systems, and defense studies.
+20 production skills for [Claude Code](https://claude.ai/code). Built from academic publishing, qualitative research, and consulting across management, information systems, and defense studies.
 
 Organized by what they do, not where they come from.
 
@@ -31,6 +31,7 @@ Cross-cutting filters. These run on everything, regardless of task.
 - **[rq-architect](skills/build/rq-architect/)** — Moves research questions from gap-spotting to genuine problematization. Combines Sandberg and Alvesson (2010) with FINERMAPS quality criteria and RQ-type taxonomy.
 - **[argument-architecture](skills/build/argument-architecture/)** — CARS model (macro: Introduction architecture, research space creation) plus Toulmin (micro: claim-evidence-warrant for each argument). Two levels of structure for academic positioning.
 - **[theory-section-architect](skills/build/theory-section-architect/)** — Architects theory sections: construct selection, framework construction, tension surfacing, hypothesis derivation. Three modes: Scaffold (architecture), Draft (write), Review (diagnose).
+- **[theory-map-architect](skills/build/theory-map-architect/)** — Produces a strategic 2-page theory memo for configurational (fsQCA, QCA) and qualitative (Gioia, grounded theory, case study) papers with finished results but unclear theoretical artifact. Forces three explicit decisions: primary lens, secondary lens, artifact genre. Audits self-developed constructs for theoretical anchoring. Sits between empirical results and writing prose.
 
 ## Orchestrate — chain multiple skills into a pipeline
 
