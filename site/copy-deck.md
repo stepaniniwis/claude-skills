@@ -18,36 +18,44 @@ are given, pick one and delete the other.
 
 ## 01 — Hero
 
+Written to answer three questions in the first frame — for whom, what, in which fields — before any self-portrait. Personal identity moves down to the About section.
+
 ### Preferred (currently live)
 
-> **I work with systems, stories and images.**
+> **For founders, institutions and editors making *complex things public*.**
 >
-> Researcher, strategist, writer and model — exploring how technology, institutions and identity shape contemporary life, and how they can be shaped in return.
+> Research, strategy and image work across trustworthy technology, public innovation and the future of work — for organisations whose idea is strong but not yet legible, and for cultural partners who need substance rather than surface.
 
-Byline above the H1: `Stephanie Wissmann · Berlin / Munich`
+Byline above the H1: `Stephanie Wissmann · Berlin & Munich`
 
-Tagline below the CTAs: `Research. · Ventures. · Image.`
+Fields row (small chips under CTAs): `Deep tech · Public innovation · Digital trust · Future of work · Editorial & culture`
 
-### Alternate A — sharper
+### Alternate A — three-situation
 
-> **Researcher. Builder. Writer. Image-maker.**
+> **When complex technology needs a category.**
+> **When institutions need to adopt something new.**
+> **When ideas need public form.**
 >
-> I work across technology, institutions, identity and culture.
+> That is the work — research, strategy, writing and image, for founders, institutions and cultural partners.
 
-### Alternate B — poetic
+### Alternate B — offer-first
 
-> **Ideas can become systems, companies, books — or images.**
+> **Research, strategy and image work for organisations whose idea is strong but not yet legible.**
 >
-> Researcher, strategist, writer and model working at the intersections between them.
+> Across trustworthy technology, public innovation, the future of work — and a parallel practice in editorial and cultural formats.
 
 ### CTA labels
 
 - Primary: `Explore selected work`
-- Secondary: `Read Proof & Possibility →`
+- Secondary: `See how we can work →` (links to Services section)
 
 ---
 
 ## 02 — Selected Work
+
+Section headline:
+> **What the work looks like.**
+> Six projects from ventures, research and studio — presented on equal footing. Full portfolio and confidential engagements on request.
 
 Six projects. Order matters: every row of three shows a Venture, a Research
 piece and a Studio piece so range is visible on first glance.
@@ -153,11 +161,17 @@ Three questions that hold the work together. Kept short on purpose.
 Sublabel under the section number:
 `Studio Stepanini — visual & cultural work by Stephanie Wissmann`
 
-### Section headline
+### Section headline (problem-first, currently live)
 
-> **A place where ideas take *visual form*.**
+> **For editors, photographers and cultural partners who want *substance, not surface*.**
 >
-> The studio is not decoration. It is a third practice — alongside research and ventures — and it shares the same question: how identity, presence and public form are made.
+> Editorial, modelling and cultural formats — a second commercial track alongside advisory. Studio Stepanini works with those who need a subject with an argument, a collaborator with a body of ideas, or a host with a room.
+
+### Alternate — softer
+
+> **When an idea needs public form — a portrait, a room, a book, a scene.**
+>
+> Studio Stepanini is the practice for that. Editorial, modelling and cultural formats, held together by the same question that runs through the research: how identity, presence and public form are made.
 
 ### Four editorial series (with plate captions)
 
@@ -288,11 +302,13 @@ first, then programmes, then teaching.
 
 ## 09 — About
 
-**Section headline:**
-> **Three practices, one line of thinking.**
+Placed after Services, Studio, Writing and Substack so the customer has already seen what they get before meeting the person. About is a bridge, not an identity claim.
+
+**Section headline (currently live):**
+> **The person behind the work.**
 
 **Lead paragraph (currently live):**
-> I am a researcher, strategist, writer and model. I have spent more than fifteen years moving between ventures, institutions and research — founding companies, building technology and innovation programmes, advising organisations, and studying how emerging technologies change trust, work and identity. My work connects three worlds that are usually kept apart — *technological systems, institutional change and human experience*. Image and cultural practice are part of the same enquiry, not a parallel life.
+> Fifteen years across ventures, institutions and research — before the work settled into the three practices above. I founded companies, built technology and innovation programmes, advised organisations, and studied how emerging technologies change trust, work and identity. Editorial and cultural practice grew out of the same enquiry. Research, advisory and studio are *one line of thinking* — held together by a single question: how technology, institutions and identity are made, and how they can be shaped in return.
 
 ### Three pillars
 
