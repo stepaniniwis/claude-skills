@@ -20,3 +20,66 @@ A18,Radu-Lefebvre et al.,2021,ETP,10.1177/1042258721991185,4,manual,,,,,,,review
 A19,Welter,2011,ETP,10.1111/j.1540-6520.2010.00427.x,4,manual,,,,,,,contextualization frame,,,context as theory not setting,,conceptual,,,,A,framing anchor
 A20,Yitshaki & Kropp,2016,ERD,10.1080/08985626.2016.1155743,3,manual,NARR,,independent,exclusive,Israel,high-tech vs social entrepreneurs,identity construction,VALUES,ACTION,,,qual,life-story interviews,narrative,,A,anchor
 A21,Bousfiha & Berglund,2025,SEJ,,4,manual,IDWORK,RIT,academic,hybrid,,academic entrepreneurs,micro-transitions,HIERARCHY,,role duality integrates over micro-transitions,,qual,,,S,A,anchor
+D01,Radu-Lefebvre et al.,2020,JBV,10.1016/j.jbusvent.2020.106031,4,database-scite,IDWORK,NARR,independent,exclusive,,founders,founder identity authenticity work,ACTION,,,,,,,,A,title-stage
+D02,,2021,JSBM,10.1080/00472778.2021.1905821,3,database-scite,FIT,,independent,exclusive,,founders,founder identity tension,ACTION,,,,,,,,A,title-stage
+D03,,2022,JSBM,10.1080/00472778.2022.2051180,3,database-scite,,,independent,exclusive,,coworking founders,founder identity in context,PROTOTYPE,,,,,,,,A,title-stage; context-explicit
+D04,,2019,ASQ,10.1177/0001839219843486,4*,database-scite,FIT,,independent,exclusive,,nascent industry founders,founder identity inertia/flexibility,ACTION,,,,,,,,A,title-stage
+D05,,2026,JBV,10.1016/j.jbusvent.2026.106584,4,database-scite,,,independent,transitional,,founders,entrepreneurial disidentification,PERSISTENCE,,,,,,,,A,title-stage
+D06,,2018,JBV,10.1016/j.jbusvent.2017.12.001,4,database-scite,IDWORK,,independent,exclusive,,B Corp founders,identity work via certification,VALUES,AUDIENCE,,,,,,,A,title-stage
+D07,Kasperova & Kitching,2014,IJEBR,10.1108/ijebr-07-2013-0108,2,database-scite,,,independent,exclusive,,disabled entrepreneurs,embodied entrepreneurial identity,OTHER,,,,,,,,A,title-stage; embodiment
+D08,,2013,FBR,10.1177/0894486512474036,3,database-scite,IDWORK,,family,hybrid,,family business members,boundary identity work,HIERARCHY,VALUES,,,,,,,A,title-stage
+D09,,2019,GWO,10.1111/gwao.12357,3,database-scite,IDWORK,,independent,exclusive,,women creative founders,identity work,VALUES,,,,,,,,A,title-stage
+D10,Swail & Marlow,2018,ERD,10.1080/08985626.2017.1406539,3,database-scite,IDWORK,IMPR,independent,exclusive,,nascent women entrepreneurs,gendered legitimation,AUDIENCE,,,,,,,,A,title-stage
+D11,Lewis,2013,GWO,10.1111/j.1468-0432.2011.00568.x,3,database-scite,,,independent,exclusive,,women business owners,authentic entrepreneurial identity,VALUES,AUDIENCE,,,,,,,A,title-stage
+D12,,2021,ERD,10.1080/08985626.2021.1890231,3,database-scite,IDWORK,,multiple,,,cross-setting comparison,identity work repertoires by setting,OTHER,,,,,,,,A,title-stage; DIRECTLY on context-comparison
+D13,,2017,IJEBR,10.1108/ijebr-07-2016-0215,2,database-scite,,,independent,exclusive,,cultural/creative entrepreneurs,entrepreneurial identity role,VALUES,,,,,,,,A,title-stage
+D14,,2016,JSBM,10.1111/jsbm.12175,3,database-scite,IDWORK,,independent,exclusive,,women founders,gendered identity work longitudinal,ACTION,,,,,,,,A,title-stage
+D15,,2017,BJM,10.1111/1467-8551.12220,4,database-scite,IDWORK,,independent,exclusive,,resource-constrained founders,bricolage and identity work,ACTION,,,,,,,,A,title-stage
+D16,,2021,JAP,10.1037/apl0000823,4*,database-scite,POSS,,independent,transitional,,employees to entrepreneurs,identity aspiration after displacing events,PERSISTENCE,,,,,,,,A,title-stage
+D17,,2024,JSBM,10.1080/00472778.2024.2366959,3,database-scite,RIT,SIT,academic,hybrid,,university researchers,hybrid identity centrality,HIERARCHY,,,,,,,,A,title-stage
+D18,Duberley & Carrigan,2013,ISBJ,10.1177/0266242611435182,3,database-scite,RIT,,family,hybrid,UK,mumpreneurs,career identity motherhood x enterprise,VALUES,HIERARCHY,,,,,,,A,title-stage
+D19,,2023,IJGE,10.1108/ijge-06-2022-0102,2,database-scite,,,family,hybrid,LatAm migrants,migrant mother entrepreneurs,marianismo x entrepreneurial identity,VALUES,,,,,,,,A,title-stage
+D20,,2022,ERD,10.1080/08985626.2022.2083692,3,database-scite,IDWORK,,family,hybrid,,entrepreneuring mothers online,building being belonging,VALUES,AUDIENCE,,,,,,,A,title-stage
+D21,,2013,JFBM,10.1108/20436231311326481,1,database-scite,,,family,hybrid,,copreneurs,copreneurial identity development,HIERARCHY,,,,,,,,A,title-stage
+D22,,2025,ISBJ,10.1177/02662426251318609,3,database-scite,SIT,,independent,exclusive,refugees,refugee entrepreneurs,multiple identities enacting power,OTHER,,,,,,,,A,title-stage
+D23,Brändle & Kuckertz? (verify),2019,AMR,10.5465/amr.2017.0504,4*,database-scite,SIT,,social,,,social entrepreneurs,SIT for social entrepreneurship,OTHER,,,,,,conceptual,,A,title-stage
+D24,,2017,Organization,10.1177/1350508416665474,3,database-scite,IDWORK,,social,,,social entrepreneurs,psychoanalytic identity work,PROTOTYPE,,never social and entrepreneurial enough,,,,,,A,title-stage
+D25,,2024,SEJ,10.1108/sej-10-2023-0119,1,database-scite,,,social,,,social venture founders,paradoxical founder identity,VALUES,,,,,,,,A,title-stage
+D26,,2016,JOMS,10.1111/joms.12198,4,database-scite,,,social,,,environmental entrepreneurs,identity coupling venture goals,VALUES,,,,,,,,A,title-stage
+D27,,2023,GWO,10.1111/gwao.12670,3,database-scite,IDWORK,,platform,exclusive,India,self-employed transpeople,stigma counter identity work,AUDIENCE,,,,,,,,A,title-stage
+D28,Stead,2017,ISBJ,10.1177/0266242615594413,3,database-scite,SIT,,independent,exclusive,,women entrepreneurs,belonging navigation,AUDIENCE,,,,,,,,A,title-stage
+D29,,2012,IJEBR,10.1108/ijebr-11-2011-0157,2,database-scite,SIT,,independent,exclusive,,entrepreneurs,EI meets multiple social identities,HIERARCHY,,,,,,,,A,title-stage
+D30,,2024,ETP,10.1177/10422587241288108,4,database-scite,RIT,,corporate,hybrid,,hybrid entrepreneurs,role demands and well-being,HIERARCHY,,,,,,,,A,title-stage; core hybrid cell
+D31,Shepherd & Haynie,2013,JOM,10.1177/0149206312457823,4,database-scite,,,independent,transitional,,failed entrepreneurs,life after business failure,PERSISTENCE,,,,,,,,A,title-stage
+D32,Singh et al.,2015,JBV,10.1016/j.jbusvent.2014.07.005,4,database-scite,NARR,IMPR,independent,transitional,,failed entrepreneurs,failure stigmatization narrative,PERSISTENCE,AUDIENCE,,,,,,,A,title-stage
+D33,,2023,JBV,10.1016/j.jbusvent.2023.106302,4,database-scite,NARR,,independent,transitional,,failed entrepreneurs,narrative identity reconstruction,PERSISTENCE,,,,,,,,A,title-stage
+D34,,2020,JBV,10.1016/j.jbusvent.2020.106015,4,database-scite,,,platform,transitional,,failed entrepreneurs on Twitter,digital identity after failure,AUDIENCE,PERSISTENCE,,,,,,,A,title-stage
+D35,,2009,SEJ,10.1002/sej.113,3,database-scite,IMPR,,independent,transitional,,failed entrepreneurs,stigma impression management self-verification,AUDIENCE,PERSISTENCE,,,,,,,A,title-stage
+D36,Marshall et al.,2021,Personnel Psychology,10.1111/peps.12455,4,database-scite,RIT,,corporate,transitional,,former entrepreneurs in employment,lingering EI and turnover,PERSISTENCE,,,,,,,,A,title-stage; pairs with Nielsen & Gish
+D37,,2022,ETP,10.1177/10422587211057027,4,database-scite,NARR,IDWORK,independent,transitional,,serial entrepreneurs,public failure narratives idea/identity work,PERSISTENCE,AUDIENCE,,,,,,,A,title-stage
+D38,,2021,ETP,10.1177/1042258720952291,4,database-scite,RIT,,independent,exclusive,,experienced entrepreneurs,role identity and creativity,ACTION,,,,,,,,A,title-stage
+D39,Refai et al.,2018,IJEI,10.1177/1465750317750322,1,database-scite,,,independent,exclusive,Jordan,Syrian refugees,contextualized EI liminality,PROTOTYPE,,,,,,,,A,title-stage
+D40,,2024,JMO,10.1017/jmo.2024.43,2,database-scite,IMPR,,independent,exclusive,,former refugee women,(in)visibility paradoxes,AUDIENCE,,,,,,,,A,title-stage
+D41,,2025,ISBJ,10.1177/02662426251360178,3,database-scite,IDWORK,,independent,exclusive,,migrant entrepreneurs,mentors as identity work orchestrators,OTHER,,,,,,,,A,title-stage
+D42,,2017,GWO,10.1111/gwao.12184,3,database-scite,,,independent,exclusive,Uganda,female street traders,EI negotiation via mobile phones,AUDIENCE,,,,,,,,A,title-stage; informal economy
+D43,,2017,IJEBR,10.1108/ijebr-07-2016-0214,2,database-scite,,,independent,exclusive,,immigrants,EI development,OTHER,,,,,,,,A,title-stage
+D44,,2025,GWO,10.1111/gwao.70013,3,database-scite,IDWORK,,independent,exclusive,Saudi Arabia,tribal women entrepreneurs,identity work tribe x gender,VALUES,,,,,,,,A,title-stage
+D45,,2023,IJEBR,10.1108/ijebr-01-2023-0037,2,database-scite,IDWORK,,independent,exclusive,,racial minority entrepreneurs,othering and authenticity,AUDIENCE,,,,,,,,A,title-stage
+D46,,2016,SEJ,10.1002/sej.1262,3,database-scite,RIT,SIT,,,,,identity theory reconceptualization of entrepreneurial behavior,OTHER,,,,,,conceptual,,A,title-stage
+D47,,2022,IJEBR,10.1108/ijebr-12-2021-0990,2,database-scite,SIT,,independent,exclusive,,founders,social identities and opportunity evaluation,ACTION,,,,,,,,A,title-stage
+D48,,2022,Marketing Theory,10.1177/14705931221124026,3,database-scite,IDWORK,,independent,exclusive,,alternative market entrepreneurs,heroism to martyrdom,AUDIENCE,VALUES,,,,,,,A,title-stage
+D49,,2019,JIR,10.1177/0022185619848461,2,database-scite,,,platform,exclusive,,ride-share drivers,varied driver identities,PROTOTYPE,,,,,,,,A,title-stage
+D50,,2022,SBE,10.1007/s11187-021-00585-3,3,database-scite,,,academic,hybrid,,scientists,becoming academic entrepreneur EI development,HIERARCHY,,,,,,,,A,title-stage
+D51,,2022,IJEI,10.1177/14657503211063896,1,database-scite,IDWORK,,academic,hybrid,,nascent academic entrepreneurs,boundary identity work,HIERARCHY,,,,,,,,A,title-stage
+D52,,2021,IJEBR,10.1108/ijebr-08-2019-0492,2,database-scite,SIT,,corporate,hybrid,,corporate venturing employees,collective EI forging,PROTOTYPE,,,,,,,,A,title-stage
+D53,,2022,JOB,10.1002/job.2605,4,database-scite,RIT,,independent,exclusive,,passionate entrepreneurs,multistage passion role identity management,ACTION,PERSISTENCE,,,,,,,A,title-stage
+D54,Starmann et al.,2024,JPIM,10.1111/jpim.12798,4,database-scite,IDWORK,PROTOTYPE,corporate,hybrid,,intrapreneurs,intrapreneur identity illusion,PROTOTYPE,HIERARCHY,intrapreneurs oscillate no stable identity,missing prototype blocks identification,qual,interviews,,F,A,confirms A12 anchor DOI
+D55,,2020,Technovation/TFSC,10.1016/j.techfore.2020.120179,4,database-scite,RIT,IDWORK,academic,hybrid,,university principal investigators,hybrid role identity shaping,HIERARCHY,,PIs actively shape hybrid role identity,,qual,,,S,A,title-stage; pairs w Jain
+D56,,2018,AOM Proc,10.5465/ambpp.2018.147,,database-scite,CONFLICT,RIT,academic,hybrid,,academic entrepreneurs,Jekyll/Hyde identity conflict,HIERARCHY,PROTOTYPE,academic entrepreneurs manage identity conflict,,qual,,,C,B,proceedings-check N2
+D57,,2015,JOM,10.1177/0149206314544747,4,database-scite,RIT,,independent,exclusive,,entrepreneurs,role identities and opportunity selection,ACTION,,,,,,,,A,title-stage
+D58,,2022,ET,10.1108/et-06-2021-0203,2,database-scite,IDWORK,,academic,hybrid,,academic teachers in training camp,sensemaking identity work,HIERARCHY,,,,,,,,A,title-stage
+D59,,2025,Social Media+Society,10.1177/20563051251323951,3,database-scite,IMPR,IDWORK,platform,exclusive,,influencers/creators,platforms construct creators,AUDIENCE,,,,,,,,A,title-stage; platform cell
+D60,,2025,Sociology of Race/Ethnicity,10.1177/23326492251374650,3,database-scite,IDWORK,IMPR,platform,exclusive,,exotic dancers as platform entrepreneurs,erotic influencer entrepreneurship,AUDIENCE,VALUES,,,,,,,A,title-stage; platform cell
+D61,,2019,Journal of Media Business,10.1080/16522354.2019.1689767,2,database-scite,IDWORK,IMPR,platform,exclusive,,digital media entrepreneurs,EI development via digital media,AUDIENCE,,,,,,,,A,title-stage; platform cell
+D62,,2021,IJEBR,10.1108/ijebr-11-2019-0619,2,database-scite,,,academic,hybrid,,academics,motivations to become entrepreneur evolve,OTHER,,,,,,,,B,motivation-focus not identity; C3 check
+D63,,2022,IJEBR? verify,10.5465/ambpp.2017.13952abstract,,database-scite,IDWORK,,independent,exclusive,,women entrepreneurs,identity construction across socio-cultural contexts,VALUES,,,,,,,,B,proceedings-check N2
