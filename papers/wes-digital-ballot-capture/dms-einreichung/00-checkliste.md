@@ -18,7 +18,7 @@ Paketinhalt:
   - [ ] Zitier-/Literaturformat (aktuell Budrich-üblich Autor-Jahr; ggf. an Stylesheet anpassen)
   - [ ] Datei-Format (OJS nimmt üblicherweise .docx)
 - [ ] **Registrierung/Upload im OJS** auf budrich-journals.de (Rubrik "Abhandlungen"), Metadaten DE+EN eintragen.
-- [ ] Referenzen: verbleibende `[prüfen]`-Marker auflösen (siehe `04-referenzen-verifikation.md`, wird von der laufenden Recherche befüllt) — **kein Manuskript mit [prüfen]-Markern hochladen**.
+- [x] Referenzen: alle `[prüfen]`-Marker aufgelöst; sämtliche Einträge über Verlags-/Datenbankquellen verifiziert (u. a. korrigiert: Budurushi/**Jöris**/Volkamer 2014 statt Neumann/Renaud; Kitcat/**Brown** statt Browning; Jerhov/Högström **2024**; Stein et al. **2025**; James/**Garnett/Asplund/Campion** 2023 statt "Clark"). **Restrisiko, am PDF gegenprüfen:** Heft/Seiten bei DeMora et al. 2022 (21(3), 249–258) und Hostetter/Atkeson 2025 (Online First) sind nur einfach belegt; Vorname "P. Jöst" (vermutlich Paula) am Frontiers-PDF prüfen.
 
 ## Inhaltlich erledigt (Stand heute)
 
