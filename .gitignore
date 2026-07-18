@@ -2,3 +2,5 @@
 *.bak
 *_backup_*
 .claude/
+projects/identity-scoping-review/staging.csv
+projects/identity-scoping-review/existing_dois.txt
