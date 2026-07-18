@@ -36,7 +36,27 @@ This review asks whether that difference is the exception or the rule — and wh
 The review proceeds as follows. Section 2 positions the review against the three prior syntheses and specifies the analytical move they did not make. Section 3 details the scoping method. Sections 4 and 5 present the findings: the mapping of problems and theories onto forms (Section 4), and the direct convergence–divergence tests (Section 5). Section 6 develops the portability-without-equivalence argument and its consequences for theory, method, and the field's research agenda. Section 7 concludes.
 
 ---
-<!-- POSITIONING SECTION (Section 2) — pending reviews-agent evidence -->
+## 2. Prior Reviews and the Analytical Move They Did Not Make
+
+The entrepreneurial identity literature has been reviewed three times in recent years, each review substantial and each, in a different way, leaving the coherence question untouched. Taken together they establish that the field is disunified; what none establishes is *why*, in a sense that would tell us whether the disunity is a defect or a signal.
+
+Radu-Lefebvre, Lefèbvre, Crosina, and Hytti (2021), reviewing 153 articles, organise the field around a single master distinction: entrepreneurial identity as *property* — a set of relatively stable psychological attributes studied for its outcomes — versus entrepreneurial identity as *process*, a dynamic emergence studied for its antecedents and construction. Their integrative map runs along antecedents, content, and outcomes, and their diagnosis is that the field "revolves around two primary conceptualizations" that rarely intersect. Mmbaga, Mathias, Williams, and Cardon (2020), through a bibliometric analysis of 180 articles, partition what they call a "largely disjointed body of existing work" into four "conversations" — distinctions, variations, constructions, and intersections — that proceed in relative isolation from one another. Wagenschwanz (2021), reviewing 132 articles under a systematic protocol, diagnoses the field's problem as terminological: "theoretical and terminological inconsistencies have hampered the development of a coherent understanding of the identity of entrepreneurs," and the remedy proposed is conceptual clarity — a disciplined nesting of "entrepreneurial identity" within "founder identity" within the founder's overall self-concept, crossed with the role, social, and personal identity perspectives.
+
+These reviews share an organising principle and, with it, a blind spot. Each sorts the literature by something *internal* to identity theory — its paradigm (property/process), its thematic conversations, or its terminology — and each treats the entrepreneur as, in effect, a single kind of person whose identity can be theorised in general. The *form* of entrepreneuring — whether identity is at stake for an independent founder, an academic spinning out a discovery, an intrapreneur inside a corporation, a mother running a venture from home, a gig worker on a platform, or a social entrepreneur reconciling logics — enters none of the three as a systematic boundary condition on what identity is and does. This is not for want of awareness that context matters. Radu-Lefebvre and colleagues come closest, closing with an explicit call to examine "the interplay between EI and temporal, socio-cognitive, and spatial contexts" and to theorise "overlooked mechanisms of reconstructing and losing EI" — but context here is named as an unrealised future avenue and framed as three abstract dimensions, not as a typology of entrepreneuring forms that could moderate identity's antecedents and outcomes. Mmbaga and colleagues' "variations" conversation catalogues varieties of identity *content* among entrepreneurs and their agenda points toward venture *stage* and *digital* settings, but not toward venture form as a moderator. Wagenschwanz's framework is individual-level throughout; where non-standard settings appear — academic entrepreneurs' delegating and buffering, social entrepreneurs' competing logics — they appear as illustrative identity *content*, not as boundary conditions, and the term "context" is used in the narrow sense of the work/non-work divide.
+
+The gap, stated precisely, is therefore not that prior reviews ignored context — one of them expressly called for it — but that none organises entrepreneurial-identity knowledge *by the form of entrepreneuring as a systematic moderator*, and so none is positioned to ask whether the identity problem itself changes across forms. This is the analytical move the present review makes. By coding each study for the focal identity *problem* it addresses and cross-tabulating that against the form of entrepreneuring, we convert an acknowledged-but-unsystematised call for context into a form-conditioned account of the field — and in doing so, we can put the coherence question to a test that the property/process, four-conversation, and terminological framings were not built to run. Where prior reviews asked how to *organise* a fragmented field, we ask what the fragmentation *is* — and whether it is failure or fidelity.
+
+**Table 1. The three prior reviews and the present review.**
+
+| | Radu-Lefebvre et al. (2021) | Mmbaga et al. (2020) | Wagenschwanz (2021) | This review |
+|---|---|---|---|---|
+| Sample | 153 articles | 180 articles | 132 articles | 218 studies |
+| Method | Systematic integrative review | Bibliometric co-occurrence | Systematic (Tranfield protocol) | Form-sensitive scoping review |
+| Organising axis | EI as Property vs. Process | Four conversations (distinctions, variations, constructions, intersections) | Nested terminology × role/social/personal identity | **Focal identity problem × form of entrepreneuring** |
+| Diagnosis of the field | Two conceptualisations that rarely intersect | A "largely disjointed" body of work | Terminological inconsistency | Family of instruments over an umbrella of problems |
+| Form as systematic moderator? | No (context named as future avenue) | No ("variations" = identity types) | No (individual-level throughout) | **Yes — the organising principle** |
+
+
 
 ---
 
@@ -162,4 +182,90 @@ Several design choices bound these conclusions. The corpus was coded at the titl
 
 Entrepreneurial identity research has spent two decades accumulating findings under the assumption that it studies one thing. This review suggests it studies several, held together by shared instruments rather than a shared problem. When the literature is sorted by the form of entrepreneuring in which identity is at stake, the identity *problem* turns out to vary systematically — role hierarchy for academic entrepreneurs, audience for platform workers, value alignment for family and social entrepreneurs, prototype availability for corporate ones — while only the field's default case, the independent founder, is asked every question at once. Even the field's most portable construct, whose scale is validated across fourteen countries, is put to work on different problems in different settings, as its own authors demonstrate. The field is a family at the level of what it measures and an umbrella at the level of what it explains. Naming that difference — construct portability without problem equivalence — does not resolve the coherence question so much as retire it, replacing the unanswerable "is entrepreneurial identity one construct?" with the tractable "under which form of entrepreneuring does this identity claim hold?" Fragmentation, on this account, was never the disease. It was the field, more accurately than it knew, tracking a differentiated reality — and the task ahead is not to integrate the fragments but to specify, honestly, which of them a given claim belongs to.
 
-<!-- REFERENCES -->
+## References
+
+*Volume and page numbers should be verified against the version of record before submission; DOIs are provided for all peer-reviewed sources.*
+
+Alacovska, A., Bucher, E., & Fieseler, C. (2025). Multimodal identity work in the gig economy. *Human Relations*. https://doi.org/10.1177/00187267241304591
+
+Alsos, G. A., Clausen, T. H., Hytti, U., & Solvoll, S. (2016). Entrepreneurs' social identity and the preference of causal and effectual behaviours in start-up processes. *Entrepreneurship & Regional Development, 28*(3–4), 234–258. https://doi.org/10.1080/08985626.2016.1174305
+
+Bellesia, F., Mattarelli, E., Bertolotti, F., & Sobrero, M. (2019). Platforms as entrepreneurial incubators? How online labor markets shape work identity. *Journal of Managerial Psychology, 34*(4), 246–268. https://doi.org/10.1108/jmp-06-2018-0269
+
+Bousfiha, M., & Berglund, K. (2025). Micro-transitions and work identity: How academic entrepreneurs construct hybrid identities. *Strategic Entrepreneurship Journal*. https://doi.org/10.1002/sej.1541
+
+Cardon, M. S., Wincent, J., Singh, J., & Drnovšek, M. (2009). The nature and experience of entrepreneurial passion. *Academy of Management Review, 34*(3), 511–532. https://doi.org/10.5465/amr.2009.40633190
+
+Cesinger, B., Gundolf, K., Hughes, M., Khedhaouria, A., & Montani, F. (2021). The ebb and flow of identity: How sustainable entrepreneurs deal with their hybridity. *European Management Journal*. [DOI to be verified — see coding notes]
+
+Duberley, J., & Carrigan, M. (2013). The career identities of "mumpreneurs": Women's experiences of combining enterprise and motherhood. *International Small Business Journal, 31*(6), 629–651. https://doi.org/10.1177/0266242611435182
+
+Estrada-Cruz, M., Verdú-Jover, A. J., & Gómez-Gras, J. M. (2019). The influence of culture on the relationship between the entrepreneur's social identity and decision-making: Effectual and causal logic. *Business Research Quarterly, 22*(4), 226–244. https://doi.org/10.1016/j.brq.2018.09.001
+
+Farmer, S. M., Yao, X., & Kung-McIntyre, K. (2011). The behavioral impact of entrepreneur identity aspiration and prior entrepreneurial experience. *Entrepreneurship Theory and Practice, 35*(2), 245–273. https://doi.org/10.1111/j.1540-6520.2009.00358.x
+
+Fauchart, E., & Gruber, M. (2011). Darwinians, communitarians, and missionaries: The role of founder identity in entrepreneurship. *Academy of Management Journal, 54*(5), 935–957. https://doi.org/10.5465/amj.2009.0211
+
+Folta, T. B., Delmar, F., & Wennberg, K. (2010). Hybrid entrepreneurship. *Management Science, 56*(2), 253–269. https://doi.org/10.1287/mnsc.1090.1094
+
+Giunti, G., & Duberley, J. (2023). Academic and entrepreneurial role identities: Coexistence without fusion. *Entrepreneurship & Regional Development, 35*(5–6), 462–484. https://doi.org/10.1080/08985626.2023.2178676
+
+Gruber, M., & MacMillan, I. C. (2017). Entrepreneurial behavior: A reconceptualization and extension based on identity theory. *Strategic Entrepreneurship Journal, 11*(3), 271–286. https://doi.org/10.1002/sej.1262
+
+Hiebl, M. R. W. (2023). Sample selection in systematic literature reviews of management research. *Organizational Research Methods, 26*(2), 229–261. https://doi.org/10.1177/1094428120986851
+
+Hoang, H., & Gimeno, J. (2010). Becoming a founder: How founder role identity affects entrepreneurial transitions and persistence in founding. *Journal of Business Venturing, 25*(1), 41–53. https://doi.org/10.1016/j.jbusvent.2008.07.002
+
+Jain, S., George, G., & Maltarich, M. (2009). Academics or entrepreneurs? Investigating role identity modification of university scientists involved in commercialization activity. *Research Policy, 38*(6), 922–935. https://doi.org/10.1016/j.respol.2009.02.007
+
+Kunisch, S., Denyer, D., Bartunek, J. M., Menz, M., & Cardinal, L. B. (2023). Review research as scientific inquiry. *Organizational Research Methods, 26*(1), 3–45. https://doi.org/10.1177/10944281221127292
+
+Lam, A. (2010). From "ivory tower traditionalists" to "entrepreneurial scientists"? Academic scientists in fuzzy university–industry boundaries. *Social Studies of Science, 40*(2), 307–340. https://doi.org/10.1177/0306312709349963
+
+Lewis, K. V., Ho, M., Harris, C., & Morrison, R. (2021). Becoming and being a "mumpreneur": Hybridity and the reproduction of a masculine entrepreneurial identity. *International Small Business Journal, 39*(6), 517–536. https://doi.org/10.1177/02662426211013791
+
+Mmbaga, N. A., Mathias, B. D., Williams, D. W., & Cardon, M. S. (2020). A review of and future agenda for research on identity in entrepreneurship. *Journal of Business Venturing, 35*(6), 106049. https://doi.org/10.1016/j.jbusvent.2020.106049
+
+Murnieks, C. Y., Mosakowski, E., & Cardon, M. S. (2014). Pathways of passion: Identity centrality, passion, and behavior among entrepreneurs. *Journal of Management, 40*(6), 1583–1606. https://doi.org/10.1177/0149206311433855
+
+Pan, N. D., Gruber, M., & Binder, J. (2019). Painting with all the colors: The value of social identity theory for understanding social entrepreneurship. *Academy of Management Review, 44*(1), 213–215. https://doi.org/10.5465/amr.2017.0504
+
+Petriglieri, G., Ashford, S. J., & Wrzesniewski, A. (2019). Agony and ecstasy in the gig economy: Cultivating holding environments for precarious and personalized work identities. *Administrative Science Quarterly, 64*(1), 124–170. https://doi.org/10.1177/0001839218759646
+
+Powell, E. E., & Baker, T. (2014). It's what you make of it: Founder identity and enacting strategic responses to adversity. *Academy of Management Journal, 57*(5), 1406–1433. https://doi.org/10.5465/amj.2012.0454
+
+Radu-Lefebvre, M., Lefèbvre, V., Crosina, E., & Hytti, U. (2021). Entrepreneurial identity: A review and research agenda. *Entrepreneurship Theory and Practice, 45*(6), 1550–1590. https://doi.org/10.1177/10422587211013795
+
+Ravenelle, A. J. (2019). "We're not uber": Control, autonomy, and entrepreneurship in the gig economy. *Journal of Managerial Psychology, 34*(4), 269–285. https://doi.org/10.1108/jmp-06-2018-0256
+
+Scolere, L., Pruchniewska, U., & Duffy, B. E. (2018). Constructing the platform-specific self-brand: The labor of social media promotion. *Social Media + Society, 4*(3). https://doi.org/10.1177/2056305118784768
+
+Sieger, P., Gruber, M., Fauchart, E., & Zellweger, T. (2016). Measuring the social identity of entrepreneurs: Scale development and international validation. *Journal of Business Venturing, 31*(5), 542–572. https://doi.org/10.1016/j.jbusvent.2016.07.001
+
+Starmann, F.-A., Schulz, A. C., & Kuckertz, A. (2025). The intrapreneur identity illusion: Unravelling the identity work of intrapreneurs in internal corporate venturing. *Journal of Product Innovation Management*. https://doi.org/10.1111/jpim.12798
+
+Wagenschwanz, A. M. (2021). The identity of entrepreneurs: Providing conceptual clarity and future directions. *International Journal of Management Reviews, 23*(1), 64–84. https://doi.org/10.1111/ijmr.12241
+
+Welter, F. (2011). Contextualizing entrepreneurship—Conceptual challenges and ways forward. *Entrepreneurship Theory and Practice, 35*(1), 165–184. https://doi.org/10.1111/j.1540-6520.2010.00427.x
+
+Wry, T., & York, J. G. (2017). An identity-based approach to social enterprise. *Academy of Management Review, 42*(3), 437–460. https://doi.org/10.5465/amr.2015.0203
+
+Zou, B., Guo, J., & Guo, F. (2019). Absorptive capacity, technological innovation, and product life cycle: Scholarly versus entrepreneurial identification among academic entrepreneurs. *International Entrepreneurship and Management Journal, 15*(2), 641–662. https://doi.org/10.1007/s11365-017-0492-1
+
+Żur, A. (2020). Entrepreneurial identity and social–business tensions—The experience of social entrepreneurs. *Journal of Social Entrepreneurship, 12*(3), 438–458. https://doi.org/10.1080/19420676.2020.1740297
+
+---
+
+## Appendix A — Coding scheme summary
+
+**Focal identity problem codes (RQ1).** ACTION (identity guides entrepreneurial action/strategy); HIERARCHY (which of several coexisting roles is primary); PROTOTYPE (whether a clear category to identify with exists at all); VALUES (whether the venture aligns with prior identities/values); AUDIENCE (how identity is performed/signalled to evaluating audiences, incl. algorithms); PERSISTENCE (whether an identity survives a role transition). One primary code per study; a secondary code permitted where a design explicitly addresses two; OTHER with memo where none fit.
+
+**Theory codes (RQ2).** Social identity/self-categorisation (SIT); role identity (RIT); narrative identity (NARR); possible selves (POSS); identity work (IDWORK); impression management/legitimacy (IMPR); identity conflict (CONFLICT); Fauchart–Gruber founder-identity types (FIT); OTHER.
+
+**Context codes.** Locus: independent, academic, corporate, family, platform, social, multiple, other. Role structure: exclusive, hybrid, transitional.
+
+**Outcome valence (RQ3).** S (identity process succeeds/stabilises), F (fails/destabilises), C (conditional/mixed).
+
+**Pre-registered RQ4 decision rules.** (A) coherent construct: one problem primary in ≥5/6 forms and ≥50% of cross-form comparisons convergent; (B) family of constructs: partial adjacent-form overlap of problems and mixed comparisons; (C) umbrella term: no problem primary in >2 forms and majority of comparisons divergent. Observed pattern: rule A fails; the corpus sits between B and C, resolved analytically as portability-without-equivalence (Section 6).
+
+*The full coded corpus (223 rows), search log, PRISMA tracker, and screening log accompany this manuscript as supplementary files.*
