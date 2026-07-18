@@ -28,6 +28,18 @@ Simulierte Begutachtung der v0.2 aus Reviewer-Perspektive; alle Befunde wurden d
 - Deckeneffekt-Diskussion bleibt wie ist: Sie ist bereits selbstkritisch geführt; weitere Relativierung würde den Befund künstlich schwächen.
 - Platzhalter in 4.5 (Stadt-Freigabe) bleibt bis zur Klärung; darf nicht in die finale Einreichungsdatei.
 
+## Runde 2 (18.07.2026, auf v0.4, alle umgesetzt → v0.5)
+
+**R2-1 (Major, Recht):** Die Paraphrase des BVerfG-Urteils ("maßgebliches Stimmendokument der Laienkontrolle entzogen") war dogmatisch angreifbar; das Urteil verlangt Nachvollziehbarkeit der wesentlichen Verfahrensschritte ohne Sachkenntnis, nicht ein bestimmtes Dokumentenarrangement. Präzisiert. Zusätzlich expliziter Reichweiten-Hedge: Der Beitrag leistet bewusst keine abschließende wahl-/verfassungsrechtliche Würdigung (dms führt "Recht" im Titel; ein juristischer Gutachter hätte die implizite Zulässigkeitsbehauptung attackiert).
+
+**R2-2 (Major):** Kostendimension fehlte vollständig; "Effizienz" ohne Wirtschaftlichkeit ist eine offene Flanke. Als Limitation in 6.3 ergänzt (Zeit- statt Wirtschaftlichkeitsaussagen, offene Kostenseite) und als Praxisfolgerung in 6.4 (Wirtschaftlichkeitsbetrachtung vor Skalierung).
+
+**R2-3 (Moderate):** IT-Sicherheit war weder evaluiert noch als Nichtgegenstand markiert. In 6.2 explizit ausgewiesen: Sicherheitsarchitektur beschrieben, nicht auditiert.
+
+**R2-4 (Moderate):** Rücklaufquote der allgemeinen Befragung nicht bezifferbar (Grundgesamtheit unbekannt); jetzt offen ausgewiesen statt verschwiegen.
+
+**R2-5 (Minor):** Forschungsfragen als FF1–FF3 nummeriert und in den Überschriften von 5.1–5.3 sowie in 6.1 rückgebunden; dms-Gutachter prüfen die RQ-Befund-Kopplung explizit.
+
 ## Restposten (Checkliste)
 
 - Taylor 2010: Seitenzahlen in ELJ 9(2) nicht auffindbar (Verlagsseiten proxy-gesperrt); am PDF/Browser nachtragen.
