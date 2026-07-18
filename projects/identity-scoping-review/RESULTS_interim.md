@@ -39,6 +39,17 @@ Confirmation-bias guard (per protocol §4.4-5): the search *also* surfaced poten
 
 Against the pre-registered rules (§4.5): **Rule A (coherent) is not met** (no problem primary in ≥5/6 cells). Pattern currently sits between **B (family)** and **C (umbrella)** — the non-default cells are cleanly single-problem (pushes C), but adjacency exists (HIERARCHY appears in academic+corporate+family; VALUES in family+social), which is the signature of B. **Do not report a conclusion yet** — the independent cell's internal spread and the untested convergent RIT pairs are exactly what full-text coding must resolve.
 
+## ⭐ Key analytical finding (pass 2, Consensus/Scholar Gateway) — construct portability ≠ problem equivalence
+
+The confirmation-bias guard paid off. Testing whether the **Fauchart-Gruber founder-identity-types (FIT)** construct — nominally an independent×exclusive theory — *travels* to other contexts:
+
+- **It does travel.** FIT appears in 8 independent studies AND 3 social-entrepreneurship studies (Zur 2020 [E03]; Aust et al. 2024 [E07]; Cesinger 2021 [E08]; also Alsos 2016 [E04], Estrada-Cruz 2019 [E05]). Alsos/Estrada-Cruz explicitly port the typology into new-venture behavior with n=5,076 surveys. A naive "everything is different" umbrella claim would be **refuted** by this.
+- **But the problem it addresses differs by context.** In independent settings FIT is mobilized for **ACTION** (8/8 — how identity drives effectuation/causation/strategy). In social settings the *same* construct is mobilized for **VALUES** (2/3 — how identity resolves social-commercial tension). Same instrument, different question.
+
+**Why this matters for the contribution:** It moves the paper off the weak "no construct travels" claim (easily refuted) onto a far stronger, referee-proof one: **construct/measurement portability does not entail problem equivalence.** A scholar can carry Fauchart-Gruber anywhere, but in each context it answers a *different* identity question. This is a sharper version of the umbrella thesis — it concedes the field's strongest counterexample (FIT's ubiquity) and turns it into evidence. It also cleanly separates conclusion B from C: the field looks like B (a family) at the level of *shared instruments*, but like C (an umbrella) at the level of *the problems those instruments are made to solve*. **This distinction should become the paper's central analytical move.**
+
+Caveat: Cesinger et al. (2021) [E08] explicitly claims sustainable entrepreneurs hold "multiple yet **coherent**" identities — a direct counter-voice to the divergence thesis. It must be engaged head-on at full text, not sidelined.
+
 ## Sample-building status
 - 60 unique database candidates screened at title stage (44 exclusive / 20 hybrid / 11 transitional role structures).
 - Thin cells now seeded: corporate (5), platform (8), academic (10), family (6), social (4). Still under-powered for cell-level claims — targeted snowballing needed for corporate + social especially.
