@@ -20,3 +20,18 @@
 | C2 (context not codable) | |
 | C3 (identity not theorized) | |
 | C4 (intention-focal) | |
+
+
+## Update — saturated multi-database sweep (2026-07-18)
+| Metric | Value |
+|---|---|
+| Coded rows total | 223 |
+| In-sample (A or B, problem-coded) | 218 |
+| Clear include (A) | 153 |
+| Uncertain (B, full-text needed) | 65 |
+| Databases | Scite + Consensus + Scholar Gateway |
+| Search agents | 6 parallel (platform, corporate, family, transitional, academic, cross-theory) |
+| Cross-agent DOI duplicates removed at merge | tracked via merge.py dedup |
+
+Cell sizes (in-sample): independent 91, family 37, platform 33, academic 25, social 14, corporate 11, other 4, multiple 2.
+Still pending: WoS/Scopus/EBSCO exports (institutional access) for a formal PRISMA identified->screened->included count; full-text adjudication of 65 B-papers.
