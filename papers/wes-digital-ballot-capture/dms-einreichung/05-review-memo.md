@@ -40,6 +40,18 @@ Simulierte Begutachtung der v0.2 aus Reviewer-Perspektive; alle Befunde wurden d
 
 **R2-5 (Minor):** Forschungsfragen als FF1–FF3 nummeriert und in den Überschriften von 5.1–5.3 sowie in 6.1 rückgebunden; dms-Gutachter prüfen die RQ-Befund-Kopplung explizit.
 
+## Runde 3: Tiefenprüfung Daten und Argumentlogik (18.07.2026, auf v0.5 → v0.6)
+
+**T1 (Major, Datenfehler):** 5.4 schrieb die ≤0,3-pp-Genauigkeit fälschlich dem 30-Minuten-Zwischenergebnis zu; sie gilt für die vollständigen ungeprüften Ergebnisse. Korrigiert und getrennt. Vollständiger Zahlenabgleich Manuskript ↔ Rohexport dokumentiert in `06-zahlenpruefung.md` (31/31 Prüfpunkte OK).
+
+**T2 (Analyse):** Schärfste faire Vergleichsebene ergänzt: WES-Bezirke wurden am Standort mit der höchsten konventionellen Berichtigungsquote (MOC, 9,7 %) ausgezählt; Binomialnäherung P(0|0,097; 23) ≈ 0,10. Stärkt das Signal und bleibt ehrlich nicht-signifikant.
+
+**T3 (Präzision):** "Stimmen für die 25 Bezirksausschüsse" war als Wahl aller 25 Gremien lesbar; präzisiert auf den Bezirksausschuss des jeweiligen Stadtbezirks.
+
+**T4 (Konsistenz):** 6.3 zählte "drei Messvorbehalte", listete nach der Kosten-Ergänzung aber vier; korrigiert.
+
+**T5 (Theoriepolitur):** Explizite Geltungsbedingungen in 6.1 (Komplexität, zentrale Auszählung, ehrenamtliche Bedienung, maßgebliches Papier) mit klarer Nicht-Geltungs-Aussage.
+
 ## Restposten (Checkliste)
 
 - Taylor 2010: Seitenzahlen in ELJ 9(2) nicht auffindbar (Verlagsseiten proxy-gesperrt); am PDF/Browser nachtragen.
