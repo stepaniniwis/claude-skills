@@ -31,6 +31,8 @@ Erklärt: den internen Konflikt vollständig in seiner etablierten Form. Work-to
 
 Erklärt: das gesamte Seite-B-Programm. Konfligierende Vorschriften, Antwortstrategien (selective coupling, Kompartmentalisierung), Kompatibilität und Zentralität als Dimensionen. Wer den level-übergreifenden Kern als „zwei Logiken in einem Akteur" formuliert, wird sofort hierhin substituiert.
 
+**Schärfste Variante dieses Nachbarn (Nachtrag nach Volltext-Verifikation):** Besharov & Smith (2014, AMR) sind der gefährlichste Substitutionskandidat, denn sie machen bereits den Move, den unser Kern-Kandidat v2 macht: Konflikt ist bei ihnen kein Definitionsmerkmal, sondern kontingente Vorhersage aus der Konfiguration von Logik-Kompatibilität und -Zentralität. Ein Editor, der unseren Vorschlag liest, greift zuerst hierhin. Die Differenz muss deshalb an der Arena-Struktur festgemacht werden, nicht am Vorhersage-Move.
+
 **Was er strukturell nicht erreicht:** Die Architektur setzt voraus, dass beide Logiken **in derselben Arena** auf den Akteur zugreifen und dort um Geltung konkurrieren. Beim Hybrid Entrepreneur berühren sich die beiden Ordnungen im Alltag kaum: Die Anstellung und das Venture laufen in getrennten Arenen mit getrennten Audiences, und der Konflikt entsteht nicht aus widersprüchlichen Vorschriften (der Arbeitsvertrag und die Marktlogik widersprechen sich inhaltlich nicht), sondern aus Knappheit (Zeit, Energie, Loyalität) und aus der Verletzung einer Exklusivitätserwartung. Logics-Theorie kennt weder disjunkte Arenen noch Verbergbarkeit; ihre Hybride sind konstitutiv öffentlich.
 
 ## Nachbar 4: Concealable Stigma / Invisible Identity Management
