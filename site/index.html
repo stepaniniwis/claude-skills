@@ -20,6 +20,7 @@
     </a>
     <nav aria-label="Hauptnavigation">
       <ul>
+        <li><a href="#featured" class="new-link">Neu</a></li>
         <li><a href="#work">Arbeit</a></li>
         <li><a href="#approach">Ansatz</a></li>
         <li><a href="#about">Profil</a></li>
@@ -50,6 +51,54 @@
         <div><span>Gegründet</span><b>2019</b></div>
         <div><span>Sitz</span><b>Berlin / Remote</b></div>
         <div><span>Sprachen</span><b>DE · EN</b></div>
+      </div>
+    </section>
+
+    <!-- FEATURED PROJECT — Bibliothek der Gefühle -->
+    <!-- TODO Stephanie: 2–3 eigene Sätze in .featured-lead einsetzen -->
+    <!-- TODO: direkten mucbook-Artikel-Link in .press <a href> setzen -->
+    <section class="featured" id="featured" aria-labelledby="featured-h">
+      <div class="featured-inner">
+        <div class="featured-copy">
+          <p class="kicker gold">Neu — Aktuelles Projekt</p>
+          <h2 id="featured-h">
+            Bibliothek<br />
+            der <em>Gefühle</em>
+          </h2>
+          <p class="featured-lead">
+            Ein Ort für Sprache, in der über Emotionen gesprochen werden
+            kann, ohne sie kleiner zu machen.
+            <span class="todo">[TODO: 2–3 eigene Sätze — was ist das Projekt, für wen ist es, was war der Anlass?]</span>
+          </p>
+          <div class="featured-meta">
+            <div>
+              <p class="label">Presse</p>
+              <p>
+                <a class="press" href="https://www.mucbook.de/stephaniewissmann_bibliothek_der_gefuehle/" target="_blank" rel="noopener">
+                  mucbook — Das Münchner Stadtmagazin →
+                </a>
+              </p>
+            </div>
+            <div>
+              <p class="label">Status</p>
+              <p>Veröffentlicht 2026</p>
+            </div>
+            <div>
+              <p class="label">Mehr erfahren</p>
+              <p><a href="#contact">Anfrage senden →</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="featured-art" aria-hidden="true">
+          <div class="stack">
+            <span class="spine s1"></span>
+            <span class="spine s2"></span>
+            <span class="spine s3"></span>
+            <span class="spine s4"></span>
+            <span class="spine s5"></span>
+          </div>
+          <span class="quote">&ldquo;</span>
+        </div>
       </div>
     </section>
 
@@ -225,7 +274,7 @@
         }
       });
     }, { threshold: 0.15 });
-    document.querySelectorAll('.card, .principles li, .section-head, .about-grid, .contact-meta, .big-mail').forEach(el => io.observe(el));
+    document.querySelectorAll('.card, .principles li, .section-head, .about-grid, .contact-meta, .big-mail, .featured-inner').forEach(el => io.observe(el));
   </script>
 </body>
 </html>
