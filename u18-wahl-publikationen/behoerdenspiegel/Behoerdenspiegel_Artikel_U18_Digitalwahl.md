@@ -12,7 +12,7 @@ Für die Verwaltungspraxis interessant ist an dieser Wahl weniger das Ergebnis a
 
 Der erste Befund fällt deutlich aus. Jugendliche, die digital gewählt hatten, bewerteten das digitale Wählen massiv positiver als Jugendliche, die es sich nur vorstellten: nützlicher, einfacher, sozial akzeptierter, und sie wollten es deutlich häufiger wieder tun. Auch nach statistischer Kontrolle von Schulform, Technikkompetenz und der Vor-Einstellung zum digitalen Wählen bleibt ein Unterschied von rund einer dreiviertel Standardabweichung. Übersetzt: Der Abstand zwischen beiden Gruppen entspricht dem Unterschied zwischen einer skeptischen und einer zustimmenden Antwort auf derselben Skala. Kein realistisches Informationsangebot bewegt Einstellungen in dieser Größenordnung.
 
-Das bestätigt, was die Innovationsforschung seit langem nahelegt und was sich in Estland über Jahre beobachten ließ: Nicht die Broschüre überzeugt, sondern die Erfahrung. Wer den Vorgang einmal durchlaufen hat, zwei Minuten, Wahlbenachrichtigung, Anmeldung, Klick, bewertet keine abstrakte Risikokategorie „Online-Wahl" mehr, sondern einen konkreten, funktionierenden Ablauf. Für Kommunen und Länder, die über digitale Beteiligungsformate nachdenken, ist das die gute Nachricht: Pilotprojekte sind das wirksamste Akzeptanzinstrument, das die Verwaltung besitzt.
+Das bestätigt, was die Sozialpsychologie seit den siebziger Jahren experimentell belegt: Einstellungen aus eigener Erfahrung sind stabiler, sicherer und verhaltenswirksamer als Einstellungen aus bloßer Information; eine Metaanalyse über mehr als hundert Studien führt direkte Erfahrung als einen der stärksten Faktoren überhaupt (Glasman und Albarracín, 2006). Die Marketingforschung kennt dasselbe Muster als Unterschied zwischen Produkttest und Werbung. Und Estland, das einzige Land mit zwanzig Jahren Online-Wahl-Praxis, zeigt es im Längsschnitt: Die Nutzung wuchs mit der Gewöhnung, bis soziodemografische Merkmale die Online-Wähler nicht mehr von den übrigen unterschieden (Ehin u. a., 2022). Wer den Vorgang einmal durchlaufen hat, zwei Minuten, Wahlbenachrichtigung, Anmeldung, Klick, bewertet keine abstrakte Risikokategorie „Online-Wahl" mehr, sondern einen konkreten, funktionierenden Ablauf. Für Kommunen und Länder, die über digitale Beteiligungsformate nachdenken, ist das die gute Nachricht: Pilotprojekte sind das wirksamste Akzeptanzinstrument, das die Verwaltung besitzt.
 
 ### Aber das Vertrauen zieht nicht mit
 
@@ -22,13 +22,17 @@ Und diese zwei Urteile reagieren völlig unterschiedlich auf die Erfahrung. Wäh
 
 Die Erklärung ist ernüchternd plausibel. Eine reibungslose Stimmabgabe beweist dem Nutzer, dass das System bequem ist. Sie beweist ihm nicht, dass im Rechenzentrum niemand mitliest und niemand umzählt. Genau darüber urteilt aber das Vertrauen. Jugendliche, auch Vierzehnjährige, unterscheiden das offenbar sehr genau.
 
+Der Befund steht damit nicht allein. Beim vielbeachteten E-Voting-Feldversuch in der argentinischen Provinz Salta fanden Wählerinnen und Wähler die neuen Wahlgeräte einfacher und befürworteten ihre Einführung, die Sorge um das Wahlgeheimnis aber blieb bestehen (Alvarez u. a., 2013). Ein britisches Umfrage-Experiment zeigte 2023, dass Online-Wahlen quer durch alle Bevölkerungsgruppen als weniger vertrauenswürdig gelten als die Stimmabgabe im Wahllokal, ganz gleich, wie attraktiv das übrige Angebot ausgestaltet war (Turnbull-Dugarte und Devine, 2023). Die U18-Wahl fügt dem einen entscheidenden Baustein hinzu: Selbst die reale, gelungene Nutzung schließt diese Vertrauenslücke nicht.
+
 ### Verifizieren können heißt nicht verstehen
 
 Das digitale System bot eine Besonderheit, die in der Debatte um Online-Wahlen als Vertrauensanker gilt: Jede Wählerin konnte nach der Stimmabgabe per Code prüfen, ob die eigene Stimme in der digitalen Wahlurne angekommen ist. Rund 570 Jugendliche taten das, fast jeder fünfte digitale Wähler. Die Funktion wurde also angenommen.
 
 Nur: Messbar gewirkt hat sie nicht. Das Verständnis dafür, was nach der Stimmabgabe mit der eigenen Stimme geschieht, lag in der Digital-Gruppe nicht verlässlich höher als in der Papier-Gruppe. Und der Wunsch, selbst zu prüfen, hing mit dem Verständnis des Systems praktisch gar nicht zusammen. Wer verifizieren wollte, verstand das System deshalb nicht besser, und wer es verstand, wollte deshalb nicht häufiger prüfen.
 
-Für die deutsche Diskussion hat dieser Befund Gewicht. Das Bundesverfassungsgericht verlangt seit dem Wahlcomputer-Urteil von 2009, dass die wesentlichen Schritte von Wahlhandlung und Ergebnisermittlung ohne besondere Sachkenntnis nachvollziehbar sein müssen. Die U18-Daten zeigen im Feld, was Laborstudien schon andeuteten: Eine kryptographische Verifikationsfunktion einzubauen genügt dafür nicht. Zwischen mathematischer Überprüfbarkeit und bürgerlicher Nachvollziehbarkeit liegt eine Übersetzungsschicht, die institutionell gebaut werden muss: unabhängige Audits, öffentliche Schlüsselzeremonien, verständliche Prüf-Oberflächen, formalisierte Einspruchswege. Verifizierbarkeit ist notwendig. Hinreichend ist sie nicht.
+Auch das deckt sich mit der internationalen Forschung. Usability-Studien zu verifizierbaren Wahlsystemen zeigen seit Jahren, dass Wählende die Prüfschritte oft nicht abschließen können oder nicht erklären können, was die Prüfung eigentlich beweist (Acemyan u. a., 2014; Marky u. a., 2018). Besonders nah am bayerischen Fall: Eine Untersuchung zur Wahl der Gesellschaft für Informatik 2023, die dasselbe Verifikationsprinzip über ein Zweitgerät nutzte, bescheinigte der Funktion gute Bedienbarkeit, aber unzureichendes Verständnis dessen, was sie belegt (Hilt u. a., 2024).
+
+Für die deutsche Diskussion hat dieser Befund Gewicht. Das Bundesverfassungsgericht verlangt seit dem Wahlcomputer-Urteil von 2009, dass die wesentlichen Schritte von Wahlhandlung und Ergebnisermittlung ohne besondere Sachkenntnis nachvollziehbar sein müssen. Die U18-Daten zeigen nun im Feld einer echten Wahl, was diese Laborstudien andeuteten: Eine kryptographische Verifikationsfunktion einzubauen genügt dafür nicht. Zwischen mathematischer Überprüfbarkeit und bürgerlicher Nachvollziehbarkeit liegt eine Übersetzungsschicht, die institutionell gebaut werden muss: unabhängige Audits, öffentliche Schlüsselzeremonien, verständliche Prüf-Oberflächen, formalisierte Einspruchswege. Verifizierbarkeit ist notwendig. Hinreichend ist sie nicht.
 
 ### Die Reihenfolge macht den Unterschied
 
@@ -47,6 +51,18 @@ Zur Ehrlichkeit gehört der Hinweis auf die Grenzen. Die Zuteilung der Wahlform 
 Die nächsten Schritte sind konkret. In München wird die Zusammenarbeit mit der Landeshauptstadt fortgesetzt: Bei Personalratswahlen trifft das Instrumentarium auf eine erwachsene Belegschaft, vom IT-Referat bis zu Beschäftigten ohne jeden Bildschirmarbeitsplatz, und bei der Wahl zum Migrationsbeirat auf ein Gremium, dessen chronisch niedrige Wahlbeteiligung die größte Hoffnung auf den digitalen Kanal begründet. Dort wird es erstmals drei parallele Wege geben: Urne, Brief, digital. Damit lässt sich die Frage untersuchen, die nach der U18-Wahl offenbleiben musste: Wer wählt welchen Kanal, wenn alle offenstehen?
 
 Die Lehre aus Bayern lässt sich bis dahin in zwei Sätzen zusammenfassen. Ausprobieren überzeugt, und zwar in einer Größenordnung, die keine Kampagne erreicht. Aber Vertrauen entsteht nicht im Wahlvorgang, sondern in den Institutionen davor, und diese Arbeit kann der Verwaltung kein noch so gelungener Pilot abnehmen.
+
+---
+
+### Studien zum Weiterlesen
+
+- **Alvarez, R. M. u. a. (2013):** Voting Made Safe and Easy. *Political Science Research and Methods* – Feldversuch Salta: E-Voting gilt als einfacher, Geheimhaltungssorgen bleiben.
+- **Ehin, P. u. a. (2022):** Internet Voting in Estonia 2005–2019. *Government Information Quarterly* – Langzeitbefunde über elf Wahlen.
+- **Turnbull-Dugarte, S. J. / Devine, D. (2023):** Support for Digitising the Ballot Box. *Electoral Studies* – Online-Wahlen gelten durchgängig als weniger vertrauenswürdig als das Wahllokal.
+- **Acemyan, C. Z. u. a. (2014):** Usability of Voter Verifiable, End-to-End Voting Systems. *Journal of Election Technology and Systems* – Verifikation überfordert Wählende im Labor.
+- **Hilt, T. u. a. (2024):** Usability and Understanding of Individual Verifiability in the 2023 GI-Election. *E-Vote-ID* – Zweitgerät-Verifikation: gut bedienbar, kaum verstanden.
+- **Glasman, L. R. / Albarracín, D. (2006):** Forming Attitudes That Predict Future Behavior. *Psychological Bulletin* – Metaanalyse: direkte Erfahrung macht Einstellungen verhaltenswirksam.
+- **BVerfG (2009):** Urteil 2 BvC 3/07 („Wahlcomputer-Urteil") – Öffentlichkeit der Wahl, Nachvollziehbarkeit ohne Sachkenntnis.
 
 ---
 
