@@ -1,0 +1,22 @@
+id,authors,year,journal,doi,ajg_rank,found_via,theory_code,theory_secondary,context_locus,context_role_structure,context_geography,context_sample,focal_construct,problem_code,problem_secondary,key_finding,mechanism,design,data_source,analysis,outcome_valence,screening_decision,memo
+A01,Fauchart & Gruber,2011,AMJ,10.5465/amj.2009.0211,4*,manual,FIT,SIT,independent,exclusive,,firm founders,founder social identity,ACTION,,,,qual,interviews,typology,,A,anchor
+A02,Murnieks et al.,2014,JOM,10.1177/0149206311433855,4*,manual,RIT,,independent,exclusive,,entrepreneurs,identity centrality,ACTION,,,,quant,survey,regression,,A,anchor
+A03,Farmer et al.,2011,ETP,10.1111/j.1540-6520.2010.00358.x,4,manual,RIT,POSS,independent,exclusive,,nascent entrepreneurs,identity aspiration,ACTION,,,,quant,survey,regression,,A,anchor
+A04,Hoang & Gimeno,2010,JBV,10.1016/j.jbusvent.2008.07.002,4,manual,RIT,,independent,transitional,,founders,founder role identity,PERSISTENCE,ACTION,,,conceptual,,,,A,anchor
+A05,Cardon et al.,2009,AMR,10.5465/amr.2009.40633190,4*,manual,RIT,,independent,exclusive,,entrepreneurs,entrepreneurial passion,ACTION,,,,conceptual,,,,A,anchor
+A06,Cardon et al.,2013,JBV,10.1016/j.jbusvent.2012.03.003,4,manual,RIT,,independent,exclusive,,entrepreneurs,entrepreneurial passion,ACTION,,,,quant,survey,scale development,,A,anchor
+A07,Navis & Glynn,2011,AMR,10.5465/amr.2008.0361,4*,manual,IMPR,NARR,independent,exclusive,,new ventures,legitimate distinctiveness,AUDIENCE,,,,conceptual,,,,A,anchor
+A08,Mathias & Williams,2017,JBV Insights,10.1016/j.jbvi.2017.05.002,,manual,RIT,,academic,hybrid,,tech commercialization,entrepreneurial identity,HIERARCHY,,,,qual,,,,A,anchor
+A09,Powell & Baker,2014,AMJ,10.5465/amj.2012.0454,4*,manual,FIT,IDWORK,independent,exclusive,US,founders under adversity,founder identity,ACTION,,,,qual,longitudinal cases,grounded,,A,anchor
+A10,Powell & Baker,2017,AMR,10.5465/amr.2014.0175,4*,manual,FIT,SIT,independent,exclusive,,founding teams,collective identity,ACTION,,,,conceptual,,,,A,anchor
+A11,Jain et al.,2009,Research Policy,10.1016/j.respol.2009.02.007,4,manual,RIT,IDWORK,academic,hybrid,US,university scientists,hybrid role identity,HIERARCHY,,focal academic self with secondary commercial persona,delegating + buffering preserve academic primacy,qual,interviews,thematic,S,A,anchor
+A12,Starmann et al.,2025,JPIM,,4,manual,IDWORK,PROTOTYPE,corporate,hybrid,,intrapreneurs,intrapreneurial identity,PROTOTYPE,HIERARCHY,intrapreneurs oscillate; no stable identity possible,missing prototype blocks stable identification,qual,,,F,A,anchor
+A13,Phillips et al.,2025,ERD,,3,manual,POSS,IDWORK,family,hybrid,,mumpreneurs,mother-entrepreneur identity,VALUES,,reflexive accommodation aligns business with motherhood,value alignment via accommodation,qual,,,S,A,anchor
+A14,Alacovska et al.,2025,Human Relations,10.1177/00187267241304591,4,manual,IMPR,IDWORK,platform,exclusive,,gig workers,multimodal identity work,AUDIENCE,,visual self-presentation toward platform audiences,,qual,visual+interviews,,C,A,anchor
+A15,Nielsen & Gish,2023,Personnel Psychology,10.1111/peps.12626,4,manual,CONFLICT,,independent,transitional,,ex-entrepreneurs,lingering entrepreneurial identity,PERSISTENCE,,old identity creates conflict and burnout in employment,identity residual interferes with new role,quant,survey,,F,A,anchor
+A16,Petriglieri et al.,2019,ASQ,10.1177/0001839218759646,4*,manual,IDWORK,,platform,exclusive,,independent workers,holding environment,PROTOTYPE,AUDIENCE,workers build personal holding environments absent organization,,qual,interviews,,C,A,anchor
+A17,Mmbaga et al.,2020,JBV,10.1016/j.jbusvent.2020.106049,4,manual,,,,,,,review,,,four disconnected conversations,,review,,,,comparison-set,prior review IR5
+A18,Radu-Lefebvre et al.,2021,ETP,10.1177/1042258721991185,4,manual,,,,,,,review,,,EI-as-property vs EI-as-process,,review,,,,comparison-set,prior review IR1
+A19,Welter,2011,ETP,10.1111/j.1540-6520.2010.00427.x,4,manual,,,,,,,contextualization frame,,,context as theory not setting,,conceptual,,,,A,framing anchor
+A20,Yitshaki & Kropp,2016,ERD,10.1080/08985626.2016.1155743,3,manual,NARR,,independent,exclusive,Israel,high-tech vs social entrepreneurs,identity construction,VALUES,ACTION,,,qual,life-story interviews,narrative,,A,anchor
+A21,Bousfiha & Berglund,2025,SEJ,,4,manual,IDWORK,RIT,academic,hybrid,,academic entrepreneurs,micro-transitions,HIERARCHY,,role duality integrates over micro-transitions,,qual,,,S,A,anchor
