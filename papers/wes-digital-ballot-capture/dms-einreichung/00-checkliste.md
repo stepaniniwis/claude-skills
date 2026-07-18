@@ -12,13 +12,13 @@ Paketinhalt:
 - [ ] **Autorenschaft festlegen** und Titelseite ausfüllen (Namen, ORCID, Affiliation, korrespondierende E-Mail).
 - [ ] **Freigabe der Landeshauptstadt München** (KVR/Wahlamt) für Nennung, Zahlen und Freitextzitate schriftlich einholen; Datum ins Manuskript (Abschnitt 4.5) und in die Titelseite.
 - [ ] **Interessenkonflikt formulieren** (Verhältnis zur Stadt, ggf. zum Anbieter).
-- [ ] **dms-Autorenhinweise im Browser abrufen** (budrich-journals.de → dms → "Über uns"/"Einreichungen"; für automatisierte Zugriffe gesperrt) und abgleichen:
+- [ ] **dms-Autorenhinweise im Browser abrufen** und abgleichen. Direkte Links (alle für automatisierte Zugriffe gesperrt, im Browser erreichbar): https://budrich-journals.de/index.php/dms/about/submissions und das PDF https://budrich.de/Zeitschriften/dms_Autorenrichtlinien.pdf
   - [ ] max. Zeichenzahl Abhandlung (Manuskript aktuell ~49.000 Zeichen inkl. Leerzeichen und Literatur; bei Limit 40.000 → Kürzungsplan: Abschnitt 3.2 straffen, Tabelle 1 in Online-Anhang)
   - [ ] Abstractlänge (aktuell DE ~165 Wörter, EN ~185 Wörter)
   - [ ] Zitier-/Literaturformat (aktuell Budrich-üblich Autor-Jahr; ggf. an Stylesheet anpassen)
   - [ ] Datei-Format (OJS nimmt üblicherweise .docx)
 - [ ] **Registrierung/Upload im OJS** auf budrich-journals.de (Rubrik "Abhandlungen"), Metadaten DE+EN eintragen.
-- [x] Referenzen: alle `[prüfen]`-Marker aufgelöst; sämtliche Einträge über Verlags-/Datenbankquellen verifiziert (u. a. korrigiert: Budurushi/**Jöris**/Volkamer 2014 statt Neumann/Renaud; Kitcat/**Brown** statt Browning; Jerhov/Högström **2024**; Stein et al. **2025**; James/**Garnett/Asplund/Campion** 2023 statt "Clark"). **Restrisiko, am PDF gegenprüfen:** Heft/Seiten bei DeMora et al. 2022 (21(3), 249–258) und Hostetter/Atkeson 2025 (Online First) sind nur einfach belegt; Vorname "P. Jöst" (vermutlich Paula) am Frontiers-PDF prüfen; Seitenzahlen Taylor 2010 (ELJ 9(2)) nachtragen; exakte GLKrWG-Norm für Kumulieren/Panaschieren in Abschnitt 2.1 einsetzen (aktuell bewusst ohne Artikelangabe).
+- [x] Referenzen: alle `[prüfen]`-Marker aufgelöst; sämtliche Einträge über Verlags-/Datenbankquellen verifiziert (u. a. korrigiert: Budurushi/**Jöris**/Volkamer 2014 statt Neumann/Renaud; Kitcat/**Brown** statt Browning; Jerhov/Högström **2024**; Stein et al. **2025**; James/**Garnett/Asplund/Campion** 2023 statt "Clark"). **Restrisiko, am PDF gegenprüfen:** Nur noch zwei einfach belegte Angaben: Heft/Seiten bei DeMora et al. 2022 (21(3), 249–258) und Taylor 2010 (9(4), 443–449). Erledigt und verifiziert: Paula Jöst (Frontiers/JGU Mainz bestätigt), Art. 34 GLKrWG ("Stimmenzahl und Vergabe der Stimmen", gesetze-bayern.de bestätigt, im Manuskript eingesetzt), Hostetter/Atkeson als Online First zitiert (korrekte Zitierpraxis).
 
 ## Inhaltlich erledigt (Stand heute)
 

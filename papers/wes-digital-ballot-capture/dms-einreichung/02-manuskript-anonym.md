@@ -36,7 +36,7 @@ Der Gang der Untersuchung: Abschnitt 2 beschreibt den institutionellen Rahmen, d
 
 ### 2.1 Das Auszählungsproblem bayerischer Kommunalwahlen
 
-Das bayerische Kommunalwahlrecht (GLKrWG) gewährt Wählenden so viele Stimmen, wie Sitze zu vergeben sind: 80 für den Münchner Stadtrat, weitere Stimmen für die 25 Bezirksausschüsse auf gesonderten Stimmzetteln. Zulässig sind das Häufeln von bis zu drei Stimmen auf eine Person (Kumulieren) und die Verteilung von Stimmen über Listengrenzen hinweg (Panaschieren); ein Listenkreuz weist die nicht einzeln vergebenen Stimmen den Listenkandidaturen in Reihenfolge zu. Ein einzelner gültiger Stadtratsstimmzettel kann somit Dutzende einzeln zuzuordnende Kandidatenstimmen in idiosynkratischen Kombinationen kodieren.
+Das bayerische Kommunalwahlrecht (Art. 34 GLKrWG) gewährt Wählenden so viele Stimmen, wie Sitze zu vergeben sind: 80 für den Münchner Stadtrat, weitere Stimmen für die 25 Bezirksausschüsse auf gesonderten Stimmzetteln. Zulässig sind das Häufeln von bis zu drei Stimmen auf eine Person (Kumulieren) und die Verteilung von Stimmen über Listengrenzen hinweg (Panaschieren); ein Listenkreuz weist die nicht einzeln vergebenen Stimmen den Listenkandidaturen in Reihenfolge zu. Ein einzelner gültiger Stadtratsstimmzettel kann somit Dutzende einzeln zuzuordnende Kandidatenstimmen in idiosynkratischen Kombinationen kodieren.
 
 Die manuelle Auszählung verlangt, jeden Stimmzettel vorzulesen, rechtlich zu würdigen, kandidatenscharf zu verbuchen und gegenzuprüfen. Das Münchner Wahlamt veranschlagt für das konventionelle Verfahren rund drei Minuten Bearbeitungszeit pro Stadtratsstimmzettel; die Auszählung erstreckt sich regelmäßig in den Folgetag. Die Größe der Fehlerfläche folgt aus derselben Komplexität: Wird bei der amtlichen Prüfung einer Wahlniederschrift ein Rechen- oder Übertragungsfehler festgestellt, muss das Bezirksergebnis förmlich berichtigt werden. Diese Berichtigungen werden protokolliert und liefern ein seltenes administratives Maß der Auszählungsqualität, auf das Abschnitt 5.2 zurückkommt.
 
@@ -253,7 +253,7 @@ Shino, E./Smith, D. A. (2025): Vote Method and Confidence in Elections. In: Poli
 
 Stein, R. M./Burden, B. C./Lamb, M./Alberda, G./Atkeson, L./Bryant, L./Cobb, R./Gilbert, M./Hostetter, J. D./Kimball, D. C./Mayer, K. R./Panagopoulos, C./Reeves, A./Smidt, C./Victor, J. (2025): Guardians at the Gates. Poll Worker Retention in a Challenging Election Environment. In: Election Law Journal 24, H. 1, S. 62–73.
 
-Taylor, G. (2010): Constitutional Restrictions on Touch-Screen Voting Computers in Germany. In: Election Law Journal 9, H. 2.
+Taylor, G. (2010): Constitutional Restrictions on Touch-Screen Voting Computers in Germany. In: Election Law Journal 9, H. 4, S. 443–449.
 
 Venkatesh, V./Morris, M. G./Davis, G. B./Davis, F. D. (2003): User Acceptance of Information Technology. Toward a Unified View. In: MIS Quarterly 27, H. 3, S. 425–478.
 
