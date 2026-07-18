@@ -1,9 +1,5 @@
 # Den Zählvorgang digitalisieren, nicht die Stimmabgabe: Befunde aus dem ersten rechtsverbindlichen Einsatz digitaler Stimmzettelerfassung bei der Münchner Kommunalwahl 2026
 
-**Arbeitsfassung für Zeitschrifteneinreichung, v0.2 (deutsch)**
-
-*Zielformat: Abhandlung, dms – der moderne staat. Autorenangaben, Danksagung und Interessenerklärung folgen; offene Entscheidungen in `submission-notes.md`.*
-
 ---
 
 ## Zusammenfassung
@@ -56,7 +52,7 @@ Das erprobte System (Wahllokalerfassungssystem, WES, eines deutschen Anbieters, 
 
 Im Vorfeld schulte die Stadt 203 Wahlhelfende in 18 Terminen zu je 3,5 Stunden, durchgeführt von zehn Trainerinnen und Trainern; der Praxisteil arbeitete mit 150 Übungsstimmzetteln statt der in konventionellen Schulungen üblichen 50. Erfahrene Unterstützungskräfte aus Bremen begleiteten den Einsatz vor Ort. Erklärte Ziele des Piloten waren die Prüfung von technischer Machbarkeit, Effizienzgewinnen, Fehlerquoten, Rechtssicherheit und Nutzerakzeptanz. Abbildung 1 stellt beide Auszählungsverfahren mit den zentralen Prozess- und Ergebniskennzahlen gegenüber.
 
-![Abbildung 1: Konventionelle und digital unterstützte Auszählung im Vergleich (Prozessschritte, Richtwerte des Piloten, Berichtigungsquoten). Quelle: eigene Darstellung auf Basis der Begleitevaluation.](dms-einreichung/abbildung1-prozessvergleich.png)
+![Abbildung 1: Konventionelle und digital unterstützte Auszählung im Vergleich (Prozessschritte, Richtwerte des Piloten, Berichtigungsquoten). Quelle: eigene Darstellung auf Basis der Begleitevaluation.](abbildung1-prozessvergleich.png)
 
 ## 3. Forschungsstand und analytischer Rahmen
 
