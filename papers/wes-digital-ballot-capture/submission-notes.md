@@ -1,6 +1,24 @@
 # Submission-Notes: WES-Paper
 
-Stand: 2026-07-18. Manuskript: `manuscript.md` (englisch, ~6.500 Wörter ohne Referenzen).
+Stand: 2026-07-18. Manuskripte: `manuskript-de.md` (deutsch, Zielfassung für dms, v0.2, mit vollständigem Methodenteil) und `manuscript.md` (englisch, v0.1, Basis für ELJ/E-Vote-ID-Route).
+
+## 0. A-Journal-Realitätscheck und Venue-Entscheidung (Recherche 18.07.2026)
+
+**Ehrliche Einordnung des erreichbaren Niveaus:** Internationale A-Journals im engeren Sinne (GIQ, Public Administration Review, JPART) sind mit diesem Design nicht realistisch: nicht randomisierter Pilot, n=23 Bezirke, administratives Einzelitem-Instrument ohne Validierung, Einzelfall. Kein Methodenteil der Welt ändert die Datenlage; er kann sie nur sauber ausweisen, und das tut die v0.2 jetzt. Erreichbar und sinnvoll:
+
+1. **dms – der moderne staat** (Budrich): führende deutschsprachige verwaltungswissenschaftliche Zeitschrift, begutachtete "Abhandlungen", deutsch oder englisch, verlangt genau das jetzt gelieferte Profil ("methodisch reflektierte und theoretisch fundierte empirische Forschung"). Erscheint 2× jährlich, Open Access nach 36 Monaten. **Empfehlung: Erstziel für die deutsche Fassung.** Vor Einreichung Autorenhinweise auf budrich-journals.de/index.php/dms prüfen (Zeichenlimit, Zitierstil; Seite war bei Recherche nur per Browser erreichbar, 403 für Tools).
+2. **ZParl – Zeitschrift für Parlamentsfragen** (Nomos): thematisch exzellente Passung (Wahlorganisation ist Kernrubrik), redaktionelle Begutachtung durch das Herausgebergremium statt double-blind Peer-Review. Kontakt: zparl@politik.uni-halle.de. **Plan B bzw. schnellere Route.**
+3. **Election Law Journal** (englisch) und **E-Vote-ID** (LNCS): internationale Route mit `manuscript.md` als Basis; dort sitzen die zitierten Nachbarstudien.
+4. **Verwaltung & Management**: Praxistransfer-Option, kein wissenschaftlicher Reputationsgewinn.
+
+Quellen der Venue-Recherche: [budrich-journals.de/index.php/dms](https://budrich-journals.de/index.php/dms), [budrich.de (dms Open Access)](https://budrich.de/news/dms-der-moderne-staat-open-access/), [Wikipedia: der moderne staat](https://de.wikipedia.org/wiki/Der_moderne_staat), [zparl.de](https://zparl.de/), [ZParl bei Schweitzer](https://www.schweitzer-online.de/zeitschrift/ZParl-Zeitschrift-Parlamentsfragen/03401758/B453035/).
+
+## 0a. Was die v0.2 (deutsch) gegenüber v0.1 methodisch nachrüstet
+
+- Vollständiger Methodenteil (Abschnitt 4): Design/Fallauswahl, Triangulation der drei Datenquellen, Instrumentenbeschreibung mit Blockstruktur und Skalenformaten, **Tabelle 1 mit Ex-post-Zuordnung aller inhaltstragenden Items zu Akzeptanzkonstrukten** (Davis 1989; Venkatesh et al. 2003; Rogers 2003), Auswertungsstrategie (Wilson-CIs, Fisher exakt, Umgang mit Freitexten), Forschungsethik.
+- Analytischer Rahmen in Abschnitt 3.4 (Technikakzeptanz heuristisch, Street-Level Bureaucracy nach Lipsky) plus Rückbindung in der Diskussion.
+- **Wichtig, nicht verhandelbar:** Die Item-Zuordnung ist als analytische Rekonstruktion deklariert, nicht als Ex-ante-Herleitung. Eine vorgetäuschte theoriegeleitete Instrumentenentwicklung wäre Fehlverhalten und flöge im Review auf (Item-Wortlaute ≠ validierte Skalen). Die Offenlegung ist die stärkste verfügbare Position: Sekundäranalyse administrativer Daten einer seltenen, nahezu vollerfassten Population.
+- Unbelegte Behauptungen der v0.1 entfernt (Dauer der Auszählung 2020, Kandidatenzahlen, Größenordnung Briefwahl-Personal); GLKrWG-Norm (Art. 34) und BVerfG-Fundstelle (BVerfGE 123, 39) ergänzt.
 
 ## 1. Ehrliche Einordnung des Materials
 
