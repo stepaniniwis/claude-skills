@@ -1,0 +1,15 @@
+# AI-paper trap audit (against the editor's head-to-toe checklist)
+
+Checked the manuscript against the seven tells an editor reported seeing in AI-written submissions.
+
+| # | Trap | Status | Evidence / action |
+|---|---|---|---|
+| 1 | Title/abstract jargon overdrive ("epistemic", "reorganizes the conditions under which cognition occurs") | **Clear** | "epistemic" 0×; "incommensurab*" 3× (used precisely, load-bearing); no empty grandiose phrasing. Title names a plain question + method. Abstract 303 words, concrete (real counts), not padded. |
+| 2 | Defaults to "conceptual synthesis" because that's what genAI does | **Clear (genre-legitimate + data-grounded)** | This *is* a review, so synthesis is the genre — but it rests on 218 coded studies with reported counts, a robustness check, and verbatim-sourced mechanisms, not a vibes aggregate. Method and limitations state honestly what was and wasn't done. |
+| 3 | Lit review = synthetic aggregate; long reference lists thrown together; citations to appease editors | **Clear** | No 8–15-cite dumps (only one 4-cite parenthetical, the actual academic-cell anchors). No gratuitous citations to the target journal's editors. Each citation does work. |
+| 4 | Methods conceptual because genAI can't do empirical; AI-drafted "empirical" = misconduct | **Clear** | No fabricated empirical data. The paper is a review; the search process (Scite/Consensus/Scholar Gateway) is named, and limitations disclose it is a saturation-of-angles sample, not a closed PRISMA census. Nothing is presented as primary empirical findings it is not. |
+| 5 | Analysis = bullet-point components claimed as a novel framework, often acronym-named; thin originality | **Clear** | Zero "we propose a novel framework" markers; no acronym coined for the contribution ("construct portability without problem equivalence" is a plain-language distinction, never abbreviated). The six problem codes are presented as a *coding instrument* that generates the finding, and Section 6.3 explicitly deflates them: "They are not a new theory of identity; they are a map of the questions." Originality is argued through two evidence-backed comparisons, not asserted. |
+| 6 | Discussion/conclusion = long lists of "propositions" treated as testable = fake rigour | **Clear** | **Zero** formal "Proposition N" statements. The research agenda is four prose directions, each tied to a specific finding in the body, not a proposition parade. |
+| 7 | References = Frankencitations | **Under verification** | Reference list partly assembled from memory + corpus; a dedicated agent is verifying all 34 entries against database records (titles, authors, years, journals, DOIs). Any mangled or non-resolving entry will be corrected or removed before this is considered final. Cesinger et al. 2021 DOI already flagged in-text as unverified. |
+
+**Residual actions:** (1) apply reference corrections from the verification pass (trap 7); (2) reconcile the 65 B-cases at full text and recompute Section 4 counts so the numbers rest on adjudicated, not provisional, coding.
