@@ -21,6 +21,7 @@ Cross-cutting filters. These run on everything, regardless of task.
 - **[citation-risk-auditor](skills/audit/citation-risk-auditor/)** — Sentence-level scan for missing citations. 8 claim types that trigger reviewer skepticism: literature-claims, empirical trends, strong generalizations, absolute gaps, superlatives, causal inference from anecdote, methodological absolutism, theoretical concept orphans.
 - **[hallucination-audit](skills/audit/hallucination-audit/)** — Three-tier back-check for AI-co-written academic text. Run before submission, before sharing with supervisors, before citing. Separate protocols for high, medium, and low-risk claims.
 - **[paper-revision-diagnostic](skills/audit/paper-revision-diagnostic/)** — 7 hard framing questions before any substantive revision. Prevents the most expensive failure: polishing a paper whose framing doesn't hold.
+- **[supervisor-review](skills/audit/supervisor-review/)** — Simulates the three PhD supervisors' review styles, distilled from 164 real comments on the confirmation document: MJS (redundancy, gap logic, argument-first, concept precision), JC (topic sentences, run-on test, absolute-claim softening), RB (methods precision: only describe what you will actually do). Run before every chapter goes to the supervisors.
 - **[saturation-auditor](skills/audit/saturation-auditor/)** — Assesses saturation in qualitative research. AUDIT mode diagnoses weaknesses, DRAFT mode writes saturation sections. Grounded in Moore, Aguinis and Darden (2026).
 
 ## Build — construct deliverables from scratch
