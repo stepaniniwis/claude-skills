@@ -52,6 +52,21 @@ Simulierte Begutachtung der v0.2 aus Reviewer-Perspektive; alle Befunde wurden d
 
 **T5 (Theoriepolitur):** Explizite Geltungsbedingungen in 6.1 (Komplexität, zentrale Auszählung, ehrenamtliche Bedienung, maßgebliches Papier) mit klarer Nicht-Geltungs-Aussage.
 
+## Runde 4: Abgleich mit Editor-Checkliste zu KI-typischen Paper-Fehlern (18.07.2026, → v0.7)
+
+Vorlage: Beobachtungsliste eines Journal-Editors (Screenshot des Autors). Punkt-für-Punkt-Prüfung:
+
+| Editor-Kritik | Befund im Manuskript | Aktion |
+|---|---|---|
+| Jargon-Overdrive in Titel/Abstract | Titel konkret; ein überladener Schachtelsatz in der Zusammenfassung | Satz geteilt und entzerrt |
+| "Conceptual synthesis" statt Empirie | Trifft nicht zu: empirische Studie mit eigenen Daten, FF1–FF3 empirisch beantwortet | keine |
+| Lit-Review als Referenz-Listen zur Gutachter-Besänftigung | Kein 4er-Cluster; Review um Spannungen organisiert; ein identisch wiederholtes 3er-Tripel | Tripel bei Zweitnennung auf zwei Anker gekürzt |
+| Methoden von genAI-Affordanzen geprägt | Trifft nicht zu: reale Erhebungen, Instrument offengelegt inkl. Grenzen | keine |
+| Analyse als Bullet-Listen + Akronym-Framework | Kein Framework, kein Akronym; ABER 6.4-Behördenabsatz war eine Parallel-Deklarativ-Liste in Prosaform | Absatz zu gewichteter Prosa umgebaut (wichtigster Hebel ausgebaut, Nebenpunkte komprimiert) |
+| Schluss mit "testbaren Propositionen"-Listen | Trifft nicht zu: narrativer Schluss ohne Propositionen | keine |
+| Frankencitations | Alle 35 Referenzen verifiziert (siehe Runden 1–3, `06-zahlenpruefung.md`) | keine |
+| Exakt am Wortlimit geschrieben | Umfang inhaltsgetrieben (~57.000 Zeichen), Limit-Abgleich steht ohnehin aus | keine |
+
 ## Restposten (Checkliste)
 
 - Taylor 2010: Seitenzahlen in ELJ 9(2) nicht auffindbar (Verlagsseiten proxy-gesperrt); am PDF/Browser nachtragen.
