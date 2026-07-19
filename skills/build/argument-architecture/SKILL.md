@@ -1,6 +1,6 @@
 ---
 name: argument-architecture
-description: "Strategic positioning and argumentation for academic papers. Combines Swales' CARS model (macro-level paper architecture, Introduction design, research space creation) with Toulmin's argumentation model (micro-level claim-evidence-warrant structure). Use when developing theoretical contributions, sharpening the 'So what?' question, structuring Introductions, building persuasive arguments, or diagnosing why an argument feels weak. Triggers on requests involving contribution, positioning, gap identification, argument structure, or theoretical framing."
+description: "Strategic positioning and argumentation for academic papers. Combines Swales' CARS model (macro-level paper architecture, Introduction design, research space creation) with Toulmin's argumentation model (micro-level claim-evidence-warrant structure) and a Substitution Stress Test for new theoretical concepts. Use when developing theoretical contributions, sharpening the 'So what?' question, structuring Introductions, building persuasive arguments, diagnosing why an argument feels weak, or testing whether a new concept survives editorial substitution. Triggers on requests involving contribution, positioning, gap identification, argument structure, theoretical framing, 'is my concept new enough', 'can this be explained by existing theory', 'will the editor desk-reject this', 'substitution test', or any pre-submission check of a paper introducing new theoretical terms."
 ---
 
 # Argument Architecture Skill
@@ -136,6 +136,28 @@ Not all gaps are equal. Strong contributions:
 | **New mechanism** | Explain how/why | "The mechanism connecting X to Y..." |
 | **Problematization** | Challenge assumptions | "Contrary to received wisdom..." |
 
+## Substitution Stress Test
+
+Before submission, every new theoretical concept must survive a substitution 
+test. CARS identifies the gap. Toulmin structures the argument. The Substitution 
+Stress Test answers the editor's desk-reject question: "Can I explain this with 
+what we already have?"
+
+The test forces you to:
+1. Name the three nearest theoretical neighbours an editor would reach for
+2. Map what each explains and where each fails in your data
+3. Identify the residual configuration that only your concept explains
+
+If the residual is empty, the concept is substitutable and the paper will not 
+survive editorial screening. If the residual is substantial and structurally 
+grounded, position Move 2 of CARS around it.
+
+For the full protocol with worked example: `references/substitution-stress-test.md`
+
+**When to run**: After CARS and Toulmin are complete, before submission. 
+Mandatory for papers introducing new concepts, mechanisms, or theoretical terms. 
+Critical for competitive special issues.
+
 ## Quick Diagnostics
 
 ### Introduction Weak?
@@ -155,6 +177,13 @@ Not all gaps are equal. Strong contributions:
 - [ ] Gap is trivial → Find a more consequential gap
 - [ ] Warrant missing → Explain why evidence matters
 - [ ] No stakes → Connect to broader concerns
+
+### New Concept Vulnerable?
+- [ ] Three nearest neighbours identified?
+- [ ] Explanatory coverage mapped for each?
+- [ ] Residual configuration specified?
+- [ ] Residual substantial and structurally grounded?
+- [ ] Move 2 positioned around residual, not around gap-listing?
 
 ## Skill Hierarchy: When to Use What
 
@@ -186,6 +215,7 @@ When writing academic texts, apply skills hierarchically:
 | "Where does this section fit in the paper?" | CARS |
 | "Is this argument complete and persuasive?" | Toulmin |
 | "Is this paragraph well-written?" | Academic-Writing |
+| "Can an editor substitute my concept with existing theory?" | Substitution Stress Test |
 
 ### Workflow Sequence
 
@@ -208,6 +238,7 @@ When writing academic texts, apply skills hierarchically:
 - `references/cars-model.md`: Extended CARS with examples
 - `references/toulmin-model.md`: Toulmin patterns and diagnostics
 - `references/contribution-types.md`: Theoretical contribution patterns
+- `references/substitution-stress-test.md`: Pre-submission test for new theoretical concepts
 
 ## Mandatory Quality Layer: Anti-AI Writing
 
