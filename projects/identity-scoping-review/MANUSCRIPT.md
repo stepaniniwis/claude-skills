@@ -234,7 +234,7 @@ Petriglieri, G., Ashford, S. J., & Wrzesniewski, A. (2019). Agony and ecstasy in
 
 Powell, E. E., & Baker, T. (2014). It's what you make of it: Founder identity and enacting strategic responses to adversity. *Academy of Management Journal, 57*(5), 1406–1433. https://doi.org/10.5465/amj.2012.0454
 
-Radu-Lefebvre, M., Lefèbvre, V., Crosina, E., & Hytti, U. (2021). Entrepreneurial identity: A review and research agenda. *Entrepreneurship Theory and Practice, 45*(6), 1550–1590. https://doi.org/10.1177/10422587211013795
+Radu-Lefebvre, M., Lefebvre, V., Crosina, E., & Hytti, U. (2021). Entrepreneurial identity: A review and research agenda. *Entrepreneurship Theory and Practice, 45*(6), 1550–1590. https://doi.org/10.1177/10422587211013795
 
 Ravenelle, A. J. (2019). "We're not uber": Control, autonomy, and entrepreneurship in the gig economy. *Journal of Managerial Psychology, 34*(4), 269–285. https://doi.org/10.1108/jmp-06-2018-0256
 
