@@ -1,0 +1,29 @@
+# B-case adjudication decisions (id|DECISION|new_problem_code|note)
+# Batch 3: academic/independent/corporate/other
+D56|C||N2 AOM proceedings; journal version is J08
+D62|C||C3 motivation-focus not identity (Galati et al 2020)
+D63|C||N2 AOM 2017 abstract only
+J01|A|HIERARCHY|
+J03|A|HIERARCHY|
+J08|A|HIERARCHY|journal version of D56
+J12|A|HIERARCHY|
+J15|A|HIERARCHY|
+J16|A|HIERARCHY|
+K30|A|ACTION|
+I04|A|PERSISTENCE|
+I14|A|PERSISTENCE|
+I15|A|PERSISTENCE|flag: locus may be family
+I20|A|PERSISTENCE|
+I21|A|PERSISTENCE|no K09 dup
+I23|A|HIERARCHY|
+I26|A|PERSISTENCE|Goldsby 2026 real
+K26|A|AUDIENCE|
+K32|A|ACTION|
+K34|A|PERSISTENCE|
+K37|A|PROTOTYPE|
+G02|C||C3 role typology not identity
+I19|A|ACTION|CODE CHANGE was PERSISTENCE
+J13|A|HIERARCHY|
+J14|A|HIERARCHY|
+K31|A|PROTOTYPE|
+K35|C||C1 engineering-education students; also authors=Turner et al 2025 not Jones&Warhuus
