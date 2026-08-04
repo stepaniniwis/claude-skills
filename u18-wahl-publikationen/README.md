@@ -1,5 +1,16 @@
 # U18-Wahl 2026: Publikationen
 
+## Stand 04.08.2026
+
+- **`paper/U18_Paper_v7_Voting_Is_Easy_Trusting_Is_Not.md`** — kanonisches Manuskript (EJIS-Erstwahl, Fallback JIT/GIQ). Basis: EJIS Draft 2 (18.07.) mit allen neuen Analysen (MGCFA-Invarianz inkl. Trust-Differenzierungs-Befund TT–TR r = 1,00 in der Papiergruppe; Cluster-/Wild-Bootstrap-Robustheit; Realness-Doppelcodierung κ = .90; Permutations-Importance; kanonische Zahlen N = 383, 74 Items). In v7 ergänzt: Referenzkonflikt aufgelöst (Abdala et al. 2025 PRQ und Romanov et al. 2025 GIQ sind zwei verschiedene Estland-Studien, beide zitiert), Tabelle 1 vervollständigt (PLT_Compr = PLT1 + PLT_5, Gruppen-α .62/.62 aus den Rohdaten berechnet und gegen den Gesamtwert reproduziert), Attitüdenstärke- und Verifikations-Usability-Zitationen, Ethik-/Datenschutz-Statement integriert. Verbleibende [PLATZHALTER] nur autorenseitig füllbar (Ethikvotum, Förderkennzeichen, Autorenzeile, Repository, Realness-Häkchen, GenAI-Statement).
+- **`future4public/`** — Gastbeitrag für das Behördenspiegel-Nachwuchsformat (Abgabe 06.08.): Titel „Dein Klick zählt. Vertraust du ihm?" (35 Zeichen), Text 3.239 Zeichen inkl. Leerzeichen, geduzt, Gendersternchen; Titelbild 16:9 als eigene Darstellung (rechtefrei) inkl. Bildnachweis; Autorenbox-Text. Offen: Portraitbild.
+- `paper/archive/` — v6 (Trying Is Not Trusting), abgelöst durch v7.
+- `behoerdenspiegel/` — der frühere klassische Behördenspiegel-Artikel (Erwachsenen-Format); durch den Future4Public-Auftrag nicht ersetzt, bleibt als Zweitverwertung verfügbar.
+
+---
+
+## Frühere Stände (18.07.2026)
+
 Zwei Texte auf Basis der U18-Wahl-Analysen (Google-Drive-Ordner „U18" und „07_U18 Wahl", Stand 18.07.2026) sowie der Kritik aus dem Brown-Bag-Kolloquium.
 
 ## Inhalt
