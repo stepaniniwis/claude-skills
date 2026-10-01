@@ -1,6 +1,6 @@
 # Claude Skills
 
-20 production skills for [Claude Code](https://claude.ai/code). Built from academic publishing, qualitative research, and consulting across management, information systems, and defense studies.
+21 production skills for [Claude Code](https://claude.ai/code). Built from academic publishing, qualitative research, and consulting across management, information systems, and defense studies.
 
 Organized by what they do, not where they come from.
 
@@ -9,6 +9,7 @@ Organized by what they do, not where they come from.
 Cross-cutting filters. These run on everything, regardless of task.
 
 - **[anti-ai-writing](skills/guard/anti-ai-writing/)** — Kills 17 AI-typical prose patterns at word and paragraph level. No "delve", no "it's important to note", no balanced-binary sentences, no enumeration templates.
+- **[anti-ai-design](skills/guard/anti-ai-design/)** — Visual counterpart to anti-ai-writing. Forces a [DESIGN.md](https://github.com/google-labs-code/design.md) built on one specific real-world reference object (not adjectives) before any CSS, then audits the output for 20 AI-design tells: gradient heroes, glassmorphism, rounded-card-plus-shadow, emoji headers, three-card feature grids.
 - **[non-sycophant](skills/guard/non-sycophant/)** — Forces honest disagreement instead of agreement-seeking. Three modes: Standard (honest), `/challenge` (active counterposition), `/destroy` (strongest possible attack).
 - **[data-integrity-guard](skills/guard/data-integrity-guard/)** — Every number in output must trace to a file read in the current session. Not memory, not prior AI output, not "likely." Prevents the most common LLM failure: plausible-sounding output that doesn't match actual data.
 - **[evidence-discipline](skills/guard/evidence-discipline/)** — Separates what the data shows from what the document claims from what the recommendation is. Audits causal language, enforces evidence hierarchy, flags where interpretation is presented as finding.
@@ -65,7 +66,7 @@ research-lifecycle (orchestrator)
     +-- FIX: draft-review-loop, paper-revision-diagnostic
     +-- SUBMIT: desk-rejection-preventer, a-journal-architecture
 
-Always active: anti-ai-writing, data-integrity-guard,
+Always active: anti-ai-writing, anti-ai-design, data-integrity-guard,
               evidence-discipline, non-sycophant
 ```
 
