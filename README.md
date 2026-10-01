@@ -1,6 +1,6 @@
 # Claude Skills
 
-21 production skills for [Claude Code](https://claude.ai/code). Built from academic publishing, qualitative research, and consulting across management, information systems, and defense studies.
+22 production skills for [Claude Code](https://claude.ai/code). Built from academic publishing, qualitative research, and consulting across management, information systems, and defense studies.
 
 Organized by what they do, not where they come from.
 
@@ -29,6 +29,7 @@ Cross-cutting filters. These run on everything, regardless of task.
 - **[qualitative-coder](skills/build/qualitative-coder/)** — Independent third coder for interview transcripts. Gioia, Thematic Analysis, Template Analysis. Anti-smoothing filters, quote verification, interviewer-contamination detection, speaker separation.
 - **[methods-narrative-architect](skills/build/methods-narrative-architect/)** — Writes the analytical prose chain from data to theory. Solves "the transition from data to model is too abrupt" (the most common reviewer complaint in qualitative papers). Covers Gioia, Grounded Theory, Case Study, fsQCA, Thematic Analysis.
 - **[abductive-bridge](skills/build/abductive-bridge/)** — Builds the reasoning that connects qualitative codes to abstract constructs. Forces explicit logic: why this grouping, what the shared theoretical function is, what alternatives exist, what would falsify the construct.
+- **[search-triangle](skills/build/search-triangle/)** — Plans, runs, and audits literature searches with Gusenbauer and Haddaway's (2021) Search Triangle: goals, heuristics, and systems must match. Separates lookup, exploratory, and systematic searching, prescribes heuristics (building blocks, snowballing, successive fraction) and fit-for-purpose databases, and flags cherry-picking, skipped scoping, and Google Scholar or AI tools used as stand-alone systematic sources.
 - **[rq-architect](skills/build/rq-architect/)** — Moves research questions from gap-spotting to genuine problematization. Combines Sandberg and Alvesson (2010) with FINERMAPS quality criteria and RQ-type taxonomy.
 - **[argument-architecture](skills/build/argument-architecture/)** — CARS model (macro: Introduction architecture, research space creation) plus Toulmin (micro: claim-evidence-warrant for each argument). Two levels of structure for academic positioning.
 - **[theory-section-architect](skills/build/theory-section-architect/)** — Architects theory sections: construct selection, framework construction, tension surfacing, hypothesis derivation. Three modes: Scaffold (architecture), Draft (write), Review (diagnose).
@@ -57,7 +58,7 @@ cp -r skills/*/* ~/.claude/skills/
 ```
 research-lifecycle (orchestrator)
     |
-    +-- SCOPE: rq-architect, argument-architecture
+    +-- SCOPE: rq-architect, argument-architecture, search-triangle
     +-- BUILD: theory-section-architect, qualitative-coder,
     |         methods-narrative-architect, abductive-bridge
     +-- REVIEW: paper-feedback-pipeline
