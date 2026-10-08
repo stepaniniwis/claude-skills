@@ -1,69 +1,49 @@
-# Stepanini — Static Portfolio Site
+# stephaniewissmann.de — static site
 
-Eine ruhige, statische Portfolio-Seite im Stil aktueller Studio-Websites
-(dunkler Hintergrund, Serif-Display, viel Whitespace, blauer Akzent).
-Gebaut als Referenz nach https://www.blunarova.com — die Originalseite
-war im Build-Sandbox nicht erreichbar, daher ist der Stil
-interpretiert, nicht repliziert.
-
-## Struktur
+One page, plain HTML and CSS, no build step. Content architecture follows
+Blunarova (hero statement → work → services → sweet spot / not so much →
+voices → fields → studio → writing → Substack → about → contact). Visual
+register follows p5aholic.me, alasdairmonk.com and rauno.me: fixed left
+rail, text-first index, one large element, hairlines instead of boxes.
 
 ```
 site/
-├── index.html      Eine Seite, fünf Abschnitte (Hero, Work, Approach, About, Contact)
-├── styles.css      Komplettes Stylesheet, kein Framework
-└── assets/         Für eigene Bilder
+├── index.html      the page
+├── styles.css      all styling; design tokens at the top of :root
+├── copy-deck.md    every text block, paste-ready, with alternates and open questions
+└── README.md
 ```
 
-## Lokal ansehen
+## Preview
 
 ```bash
-cd site
-python3 -m http.server 8000
-# dann http://localhost:8000 im Browser öffnen
+cd site && python3 -m http.server 8000   # → http://localhost:8000
 ```
 
-Oder einfach `index.html` direkt im Browser öffnen.
+Or open `index.html` directly. Inter loads from Google Fonts; offline it
+falls back to the system sans.
 
-## Inhalte anpassen
+## Edit
 
-Alle Texte sind Platzhalter und stehen direkt in `index.html`:
+- **Colours, rail width, base size** — `:root` at the top of `styles.css`.
+  `--accent` is the single accent colour.
+- **Copy** — all in `index.html`; `copy-deck.md` mirrors it with alternates.
+- **Portrait** — replace `.plate` inside `.portrait` with an `<img>`
+  (aspect 4:5, min 1400px wide).
+- **Studio series images** — set `background-image` on `.w1` … `.w4`,
+  or drop an `<img>` into each `.world`.
+- **Testimonials** — six slots in `#voices`, each marked with `.todo`.
 
-- **Wordmark / Titel**: `<title>` und `.wordmark` ändern
-- **Hero**: `<section class="hero">` — H1, lede, Status-Badge
-- **Projekte**: drei `<article class="card">` Blöcke
-- **Prinzipien**: vier `<li>` in `<ol class="principles">`
-- **About**: `.about-lead` und `.facts`
-- **Kontakt**: E-Mail in `.big-mail` (zwei Stellen: href und Text)
+## Still open
 
-## Farben / Typografie ändern
+- Real portrait and four series images (launch shoot)
+- Six testimonials with name and role
+- Four copy points to verify, listed in `copy-deck.md` under *Sweet spot*
+- German landing page, Impressum, Datenschutz
+- Project sub-pages and publication archive (post-launch)
 
-Oben in `styles.css` stehen die CSS-Variablen:
+## Deploy
 
-```css
-:root {
-  --bg: #0b0e14;      /* Hintergrund */
-  --ink: #e9e5dc;     /* Textfarbe */
-  --accent: #6aa6ff;  /* Blauer Akzent */
-  --accent-2: #cdb6ff;
-}
-```
-
-Fonts werden von Google Fonts geladen (Fraunces + Inter).
-Für offline-Hosting Fonts lokal einbinden.
-
-## Hosting
-
-Statische Seite — läuft überall:
-- **Netlify**: Drag & Drop des `site/` Ordners auf netlify.com/drop
-- **GitHub Pages**: `gh-pages` Branch oder Actions-Workflow
-- **Vercel**: `vercel` CLI im `site/` Ordner
-
-Keine Build-Schritte, keine Abhängigkeiten.
-
-## Was bewusst NICHT drin ist
-
-- Kein Tracking, keine Analytics, keine Cookies
-- Kein JavaScript-Framework
-- Kein Build-Tool, kein Bundler
-- Keine externen Skripte außer Google Fonts
+Static — Netlify drop, GitHub Pages, Vercel, or any web server.
+No trackers, no cookies, no scripts beyond web fonts and ~20 lines of
+inline JS (smooth scroll, scroll-spy, year).

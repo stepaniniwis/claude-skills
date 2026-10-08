@@ -4,12 +4,15 @@ Working document for the site copy. Every block is written so a designer can
 paste it into Framer (or any CMS) without further editing. Where two versions
 are given, pick one and delete the other.
 
-**Design direction (decided):** Blunarova-clean. One grotesque sans (Inter)
-throughout, no serif, no italics. Hero H1 at 48px max, three lines. Warm
-paper background, ink text, one accent (vermilion `#c53a1e` — swap to acid
-green by changing `--accent` in `styles.css` if wanted). Section numbers and
-markers are small uppercase labels. Emphasis inside headings is colour, not
-italic.
+**Design direction (decided):** Blunarova's content, rendered in the register
+of p5aholic.me, alasdairmonk.com and rauno.me — *one design element, work
+speaks for itself, text-first.* Fixed left rail with name, role, vertical
+nav and contact; content on the right as an index. One large element (the
+hero sentence, 58px light); everything else 11–13px Inter. Cool off-white
+`#fafaf8`, ink, hairline rules, no boxes, no tinted bands, no dark section.
+One accent (`--accent` in `styles.css`, currently vermilion). Lists instead
+of cards: title · meta · status on one line, one sentence beneath. Images
+appear twice only: hero portrait and the four Studio series.
 
 ---
 
@@ -33,9 +36,11 @@ Written to answer three questions in the first frame — for whom, what, in whic
 >
 > Research, strategy and image work across trustworthy technology, public innovation and the future of work — for organisations whose idea is strong but not yet legible, and for cultural partners who need substance rather than surface.
 
-Byline above the H1: `Stephanie Wissmann · Berlin & Munich`
+Rail (fixed, top-left): `Stephanie Wissmann` / `Researcher, strategist, writer and model`. Rail bottom: `Berlin & Munich · CET` / `post@stepanini.de`.
 
-Fields row (small chips under CTAs): `Deep tech · Public innovation · Digital trust · Future of work · Editorial & culture`
+Fields line (small, under the hero): `Deep tech · Public innovation · Digital trust · Future of work · Editorial & culture`
+
+No CTA buttons in the hero — the rail nav and the work list are the calls to action, as on the reference sites.
 
 ### Alternate A — three-situation
 
@@ -51,11 +56,9 @@ Fields row (small chips under CTAs): `Deep tech · Public innovation · Digital 
 >
 > Across trustworthy technology, public innovation, the future of work — and a parallel practice in editorial and cultural formats.
 
-### CTA labels
+### Rail nav
 
-- Primary: `Explore selected work`
-- Secondary: `See how we can work →` (links to Services section)
-- Nav pill (top right): `Inquire` (links to Contact). Substack keeps its own section; no Subscribe in the nav.
+`Work · Services · Studio · Writing · About · Contact` — vertical on desktop, horizontal scrolling bar on mobile. Active section marked by a short dash (scroll-spy).
 
 ---
 
