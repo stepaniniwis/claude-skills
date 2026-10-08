@@ -14,6 +14,15 @@ One accent (`--accent` in `styles.css`, currently vermilion). Lists instead
 of cards: title · meta · status on one line, one sentence beneath. Images
 appear twice only: hero portrait and the four Studio series.
 
+Weighting within the reference set: Alasdair Monk for architecture and
+text-first lists; Rauno Freiberg for size contrast and interaction;
+p5aholic as the ceiling for reduction. Rauno's share shows as two
+typographic bookends — hero sentence and closing email, both 80px light
+against 13px body — and as interaction that does something: index rows
+shift and reveal an arrow on hover, Studio tiles zoom inside their frame,
+the rail dash grows from zero, the email draws its underline. All
+150–600ms, eased, no bounces, no cursor effects.
+
 ---
 
 ## 00 — Meta
