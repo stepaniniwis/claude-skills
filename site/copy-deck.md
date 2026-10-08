@@ -4,6 +4,13 @@ Working document for the site copy. Every block is written so a designer can
 paste it into Framer (or any CMS) without further editing. Where two versions
 are given, pick one and delete the other.
 
+**Design direction (decided):** Blunarova-clean. One grotesque sans (Inter)
+throughout, no serif, no italics. Hero H1 at 48px max, three lines. Warm
+paper background, ink text, one accent (vermilion `#c53a1e` — swap to acid
+green by changing `--accent` in `styles.css` if wanted). Section numbers and
+markers are small uppercase labels. Emphasis inside headings is colour, not
+italic.
+
 ---
 
 ## 00 — Meta
@@ -48,6 +55,7 @@ Fields row (small chips under CTAs): `Deep tech · Public innovation · Digital 
 
 - Primary: `Explore selected work`
 - Secondary: `See how we can work →` (links to Services section)
+- Nav pill (top right): `Inquire` (links to Contact). Substack keeps its own section; no Subscribe in the nav.
 
 ---
 
@@ -133,6 +141,14 @@ piece and a Studio piece so range is visible on first glance.
 **Link label:** `Read in mucbook →`
 
 ---
+
+## 02b — Voices (testimonials)
+
+Six quotes in a 3×2 grid, after the Sweet spot block. Blunarova's rule: no quote without a name **and** a role. Currently six placeholders.
+
+**Section headline:** What people say after working together.
+
+Suggested mix: two advisory clients · two research or institutional partners · two studio collaborators (editor, photographer, salon co-host). Each quote one or two sentences on what changed, not on how nice the collaboration was.
 
 ## 03 — Themes
 
@@ -256,6 +272,34 @@ Four offerings. No calendly, no free discovery calls. Only qualified enquiries.
 > Keynotes, executive briefings, moderated panels, university teaching and curated conversation formats. Selected engagements only.
 
 ---
+
+## 06b — Sweet spot / Not so much
+
+Blunarova's signature move, adapted. Sits directly after Services, on a
+tinted full-bleed band. Two columns, four bullets each: bold lead phrase
+with a full stop, then one or two plain sentences. The right column points
+the reader elsewhere instead of explaining — never a defence.
+
+### My sweet spot
+
+- **Research before a hard decision.** Deep tech, defence, digital trust, the public sector. You face a choice the evidence should inform. I read the field, connect what looks unrelated and write the decision brief.
+- **Ventures before they have a name.** The technology is real, the category and the story are not. I build at this stage myself: localisation where infrastructure fails, verifiable citizen participation for municipalities.
+- **Character in front of the camera.** Editorial and modelling work about age, intelligence and movement. If you photograph women as they are, not as a target group, we will get along.
+- **Rooms where unlike people meet.** Salons, dinners across disciplines, a library sorted by feeling. I host and moderate between founders, researchers, officials and artists who would not otherwise sit at one table.
+
+### Not so much
+
+- **Large programmes, long approval chains.** I work in teams of two or three, on mandates that start at about four weeks. If your project needs a steering committee, a consultancy is the better fit.
+- **Marketing sold by the piece.** Posts, decks, landing pages, a personal brand to run: good freelancers do this well and faster than I would. I write the narrative those pieces draw from.
+- **Discovery calls and spec work.** A venture, a keynote or a shoot: I start with a paid, scoped mandate, not a pitch. If you need to compare proposals first, there are agencies built for that.
+- **Best-ager campaigns and soft-focus lifestyle.** If the brief needs a smoothed face, a sunset walk or a younger version of me, other agencies cast that well. I model my own age, and I move.
+
+### Stephanie, please verify
+
+1. The "discovery calls and spec work" bullet now covers shoots and keynotes too — is that true for editors, photographers and cultural partners as well, or only for advisory?
+2. The "about four weeks" floor is written as if it applies to all mandates. If it only applies to advisory, the first "not so much" bullet needs a qualifier.
+3. Lateration's and UVERA's domains are named in the ventures bullet. They are already named in Selected Work, so this is consistent — but check against the confidentiality default.
+4. "I model my own age, and I move." and "not as a target group" — do these match how the modelling work should read?
 
 ## 07 — Credibility
 
