@@ -28,7 +28,7 @@
         <li><a href="#studio">Studio</a></li>
         <li><a href="#writing">Writing</a></li>
         <li><a href="#about">About</a></li>
-        <li><a class="cta-link" href="#proof">Subscribe</a></li>
+        <li><a class="cta-link" href="#contact">Inquire</a></li>
       </ul>
     </nav>
   </header>
@@ -168,6 +168,45 @@
           <p>Keynotes, executive briefings, moderated panels, university teaching and curated conversation formats. Selected engagements only.</p>
         </article>
       </div>
+    </section>
+
+    <!-- ═══════════ VOICES (TESTIMONIALS) ═══════════ -->
+    <!-- TODO Stephanie: replace the six placeholders with real quotes.
+         Blunarova's rule: no quote without a name AND a role. Ask two
+         advisory clients, two research/institutional partners, two
+         studio collaborators (editor, photographer, host). -->
+    <section class="section voices-section" id="voices" aria-labelledby="voices-h">
+      <header class="section-head narrow">
+        <p class="section-num">Voices</p>
+        <h2 id="voices-h">What people say<br />after working together.</h2>
+      </header>
+
+      <ul class="voices">
+        <li class="voice">
+          <blockquote>&ldquo;<span class="todo">Quote from an advisory client — one or two sentences on what changed.</span>&rdquo;</blockquote>
+          <footer><span class="avatar" aria-hidden="true"></span><div><b>Name</b><span>Founder, Company</span></div></footer>
+        </li>
+        <li class="voice">
+          <blockquote>&ldquo;<span class="todo">Quote from a research or institutional partner.</span>&rdquo;</blockquote>
+          <footer><span class="avatar" aria-hidden="true"></span><div><b>Name</b><span>Role, Institution</span></div></footer>
+        </li>
+        <li class="voice">
+          <blockquote>&ldquo;<span class="todo">Quote from an editor or photographer.</span>&rdquo;</blockquote>
+          <footer><span class="avatar" aria-hidden="true"></span><div><b>Name</b><span>Editor, Publication</span></div></footer>
+        </li>
+        <li class="voice">
+          <blockquote>&ldquo;<span class="todo">Quote from a founder or leadership team.</span>&rdquo;</blockquote>
+          <footer><span class="avatar" aria-hidden="true"></span><div><b>Name</b><span>CEO, Company</span></div></footer>
+        </li>
+        <li class="voice">
+          <blockquote>&ldquo;<span class="todo">Quote from a public-sector or programme partner.</span>&rdquo;</blockquote>
+          <footer><span class="avatar" aria-hidden="true"></span><div><b>Name</b><span>Role, Organisation</span></div></footer>
+        </li>
+        <li class="voice">
+          <blockquote>&ldquo;<span class="todo">Quote from a cultural collaborator — salon guest, co-host, curator.</span>&rdquo;</blockquote>
+          <footer><span class="avatar" aria-hidden="true"></span><div><b>Name</b><span>Role, Context</span></div></footer>
+        </li>
+      </ul>
     </section>
 
     <!-- ═══════════ THEMES ═══════════ -->
@@ -497,7 +536,7 @@
     }, { threshold: 0.12 });
 
     document.querySelectorAll(
-      '.section-head, .proj, .theme, .world, .pub, .offer, .pillars article, .big-mail, .proof-inner, .portrait-plate, .themes-through, .image-body, .contact-lead, .contact-facts, .track, .hero-fields'
+      '.section-head, .proj, .theme, .world, .pub, .offer, .pillars article, .big-mail, .proof-inner, .portrait-plate, .themes-through, .image-body, .contact-lead, .contact-facts, .track, .hero-fields, .fit-inner, .voice'
     ).forEach(el => io.observe(el));
   </script>
 </body>
