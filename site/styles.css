@@ -103,7 +103,7 @@ figure { margin: 0; }
 .page > .hero { max-width: var(--col); }
 
 /* ─────────── HERO — the one large element ─────────── */
-.hero { padding: 12vh 0 10vh; }
+.hero { padding: 9vh 0 10vh; }
 .hero h1 {
   font-size: clamp(34px, 5.6vw, 80px);
   font-weight: 300;
@@ -129,7 +129,47 @@ figure { margin: 0; }
   overflow: hidden;
 }
 .portrait img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.hero-fields { margin-top: 48px; font-size: 11px; color: var(--dim); letter-spacing: .02em; }
+/* Fields wheel */
+.wheel { position: relative; margin-top: 36px; }
+.wheel-dot { display: none; }
+
+/* flat fallback: no JS, or reduced motion */
+.wheel:not(.is-3d) .wheel-list { display: flex; flex-wrap: wrap; font-size: 11px; color: var(--dim); letter-spacing: .02em; }
+.wheel:not(.is-3d) li:not(:last-child)::after { content: "·"; margin: 0 .5em; }
+
+/* drum */
+.wheel.is-3d {
+  height: 160px;
+  overflow: hidden;
+  perspective: 600px;
+  perspective-origin: 72% 50%;        /* vanishing point to the right: receding rows drift right */
+  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 28%, #000 72%, transparent);
+          mask-image: linear-gradient(to bottom, transparent, #000 28%, #000 72%, transparent);
+}
+.wheel.is-3d .wheel-dot {
+  display: block;
+  position: absolute; left: 0; top: 50%;
+  width: 7px; height: 7px; margin-top: -3px;
+  border-radius: 50%;
+  background: var(--accent);
+  z-index: 2;
+}
+.wheel.is-3d .wheel-list {
+  position: absolute; top: 50%; left: 22px;
+  transform-style: preserve-3d;
+  transform: translateZ(-77px);
+}
+.wheel.is-3d li {
+  position: absolute; left: 0; top: 0;
+  margin-top: -12px;
+  line-height: 24px;
+  font-size: 15px;
+  white-space: nowrap;
+  color: var(--ink);
+  backface-visibility: hidden;
+  transition: transform .8s cubic-bezier(.2,.7,.2,1), opacity .8s;
+  will-change: transform, opacity;
+}
 
 /* ─────────── SECTIONS ─────────── */
 .sec { padding: 96px 0 0; }

@@ -47,7 +47,11 @@ Written to answer three questions in the first frame — for whom, what, in whic
 
 Rail (fixed, top-left): `Stephanie Wissmann` / `Researcher, strategist, writer and model`. Rail bottom: `Berlin & Munich · CET` / `post@stepanini.de`.
 
-Fields line (small, under the hero): `Deep tech · Public innovation · Digital trust · Future of work · Editorial & culture`
+Fields wheel (under the hero sub, left column): a slow drum of ten fields, one in focus with an accent dot, 2.4 s per step, pauses on hover. Order:
+
+`Deep tech · Defence technology · Digital trust · Public innovation · Institutions in transition · AI agents · Future of work · Hybrid entrepreneurship · Editorial & modelling · Salons & cultural formats`
+
+Without JS or with *prefers-reduced-motion* it renders as a flat 11px line with the same ten items.
 
 No CTA buttons in the hero — the rail nav and the work list are the calls to action, as on the reference sites.
 

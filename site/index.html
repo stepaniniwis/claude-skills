@@ -44,21 +44,37 @@
     <section class="hero" id="top">
       <h1>For founders, institutions and editors making complex things public.</h1>
       <div class="hero-row">
-        <p class="hero-sub">
-          Research, strategy and image work across trustworthy technology,
-          public innovation and the future of work — for organisations whose
-          idea is strong but not yet legible, and for cultural partners who
-          need substance rather than surface.
-        </p>
+        <div>
+          <p class="hero-sub">
+            Research, strategy and image work across trustworthy technology,
+            public innovation and the future of work — for organisations whose
+            idea is strong but not yet legible, and for cultural partners who
+            need substance rather than surface.
+          </p>
+          <!-- Fields wheel: a slow drum, one field in focus, accent dot.
+               Without JS or with reduced motion it renders as a flat line. -->
+          <div class="wheel" data-wheel aria-label="Fields">
+            <span class="wheel-dot" aria-hidden="true"></span>
+            <ul class="wheel-list">
+              <li>Deep tech</li>
+              <li>Defence technology</li>
+              <li>Digital trust</li>
+              <li>Public innovation</li>
+              <li>Institutions in transition</li>
+              <li>AI agents</li>
+              <li>Future of work</li>
+              <li>Hybrid entrepreneurship</li>
+              <li>Editorial &amp; modelling</li>
+              <li>Salons &amp; cultural formats</li>
+            </ul>
+          </div>
+        </div>
         <!-- TODO Stephanie: replace .plate with <img>. Blunarova's cue:
              relaxed, professional, warm. Aspect 4:5, min 1400px wide. -->
         <figure class="portrait">
           <div class="plate"><span class="todo">Portrait</span></div>
         </figure>
       </div>
-      <p class="hero-fields">
-        Deep tech · Public innovation · Digital trust · Future of work · Editorial &amp; culture
-      </p>
     </section>
 
     <!-- ═══════════ 01 WORK ═══════════ -->
@@ -377,6 +393,27 @@
         el.scrollIntoView({ behavior: 'smooth', block: 'start' });
       });
     });
+
+    // fields wheel — a drum of ten fields, one in focus
+    (() => {
+      const wheel = document.querySelector('[data-wheel]');
+      if (!wheel || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+      const items = [...wheel.querySelectorAll('li')];
+      const n = items.length, STEP = 18, R = 77;
+      const OPACITY = [1, .55, .28, .12, 0, 0];
+      let active = 0, timer;
+      wheel.classList.add('is-3d');
+      const render = () => items.forEach((li, i) => {
+        let d = ((i - active) % n + n) % n;
+        if (d > n / 2) d -= n;
+        li.style.transform = `rotateX(${d * STEP}deg) translateZ(${R}px)`;
+        li.style.opacity = OPACITY[Math.min(Math.abs(d), OPACITY.length - 1)];
+      });
+      const start = () => { timer = setInterval(() => { active = (active + 1) % n; render(); }, 2400); };
+      render(); start();
+      wheel.addEventListener('mouseenter', () => clearInterval(timer));
+      wheel.addEventListener('mouseleave', start);
+    })();
 
     // scroll-spy for the rail nav
     const links = [...document.querySelectorAll('.rail-nav a[data-spy]')];
