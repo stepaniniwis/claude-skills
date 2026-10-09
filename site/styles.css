@@ -12,7 +12,8 @@
   --ink-2:  #3d3d3a;
   --dim:    #8a8a85;
   --rule:   #e4e4e0;
-  --accent: #c53a1e;              /* one accent; swap here if wanted */
+  --accent: #170df2;              /* signal blue — carried over from the current site */
+  --marker: #bada55;              /* lime text marker — one gesture, hero only */
   --sans:   "Inter", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
 
   --rail:   220px;                /* fixed left rail width */
@@ -53,7 +54,7 @@ figure { margin: 0; }
 .fine { font-size: 11px; line-height: 1.6; color: var(--dim); }
 .todo {
   color: var(--accent);
-  border: 1px dashed rgba(197, 58, 30, .45);
+  border: 1px dashed rgba(23, 13, 242, .4);
   border-radius: 3px;
   padding: 0 5px;
 }
@@ -114,6 +115,24 @@ figure { margin: 0; }
   text-wrap: balance;
   color: var(--ink);
 }
+/* Text marker — the current site's signature, kept as a single gesture.
+   Background is laid out as one strip across line fragments (slice), so
+   the stroke draws through the first line and continues on the next. */
+.hero mark {
+  color: inherit;
+  background-color: transparent;
+  background-image: linear-gradient(var(--marker), var(--marker));
+  background-repeat: no-repeat;
+  background-position: 0 86%;
+  background-size: 100% 58%;
+  padding: 0 .04em;
+  animation: mark-draw 1.1s .5s cubic-bezier(.2,.7,.2,1) both;
+}
+@keyframes mark-draw {
+  from { background-size: 0% 58%; }
+  to   { background-size: 100% 58%; }
+}
+
 .hero-row {
   display: grid;
   grid-template-columns: minmax(0, 46ch) 1fr;
@@ -417,4 +436,5 @@ a.row-title[href^="http"]::after { content: none; }   /* these carry their own a
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   * { transition: none !important; }
+  .hero mark { animation: none; }
 }

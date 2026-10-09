@@ -26,7 +26,8 @@ falls back to the system sans.
 ## Edit
 
 - **Colours, rail width, base size** — `:root` at the top of `styles.css`.
-  `--accent` is the single accent colour.
+  `--accent` (signal blue `#170df2`) and `--marker` (lime `#bada55`) both
+  come from the current site; the marker appears once, in the hero `<mark>`.
 - **Copy** — all in `index.html`; `copy-deck.md` mirrors it with alternates.
 - **Portrait** — replace `.plate` inside `.portrait` with an `<img>`
   (aspect 4:5, min 1400px wide).

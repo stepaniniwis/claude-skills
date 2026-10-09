@@ -10,7 +10,12 @@ speaks for itself, text-first.* Fixed left rail with name, role, vertical
 nav and contact; content on the right as an index. One large element (the
 hero sentence, 58px light); everything else 11–13px Inter. Cool off-white
 `#fafaf8`, ink, hairline rules, no boxes, no tinted bands, no dark section.
-One accent (`--accent` in `styles.css`, currently vermilion). Lists instead
+One accent — signal blue `#170df2`, carried over from the current
+stephaniewissmann.de (name, buttons, footer there). One text marker — lime
+`#bada55`, also from the current site, used exactly once: it draws across
+"complex things public." in the hero. The current site's orange marker
+`#ff5700`, logo blue `#4c48e4` and menu red `#e84a43` are not carried over;
+Didot Italic and Avenir are replaced by Inter. Lists instead
 of cards: title · meta · status on one line, one sentence beneath. Images
 appear twice only: hero portrait and the four Studio series.
 
